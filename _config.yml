@@ -1,9 +1,9 @@
 url: https://emk4.github.io/
-baseurl: /survival-chronicle.github.io/
+baseurl: /survival-chronicles.github.io/
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Survival chronicles
+email: emkal@survival-chronicles.com
+description: "Chronicles of a french IT engineer trying to make his way in Tokyo"
 
 
 # Team names, titles and social links
@@ -40,6 +40,8 @@ people:
       url: #
     - title: google-plus
       url: #
+
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
