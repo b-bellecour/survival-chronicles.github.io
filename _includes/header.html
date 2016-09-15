@@ -41,15 +41,35 @@
     </nav>
 
     <!-- Header -->
+    {% if page.title == 'index' %}
     <header>
+            <div class="container">
+                <div class="intro-text">
+                     <div class="intro-lead-in">Combines de derrière les fagots</div>
+                     <div class="intro-heading">Pour survivre au japon</div>
+                        <a href="#services" class="page-scroll btn btn-xl">YES !!</a>
+                </div>
+            </div>
+    
+    </header>
+    {% else %}
+     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Combines de derrière les fagots</div>
-                <div class="intro-heading">Pour survivre au japon</div>
-                <a href="#services" class="page-scroll btn btn-xl">YES !!</a>
+                {% for post in site.posts limit:1 %}
+
+<style>
+   header { background-image: url('{{ site.baseurl }}img/portfolio/{{ post.img }}' )}
+</style>
+                <div class="intro-heading">{{ page.title }}</div>
+              
+                {% endfor %}
+                <a href="#services" class="page-scroll btn btn-xl">lire</a>
+                
             </div>
         </div>
     </header>
+    {% endif %}
 <!--
         {% for page in site.pages %}
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
