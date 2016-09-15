@@ -1,5 +1,5 @@
-url: https://emk4.github.io/survival-chronicles.github.io/
-baseurl: 
+siteurl: https://emk4.github.io/survival-chronicles.github.io/
+baseurl: /survival-chronicles.github.io
 # Site settings
 title: Survival chronicles
 email: emkal@survival-chronicles.com
