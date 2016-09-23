@@ -15,7 +15,7 @@ layout: default
                     <div class="text-center article-title">
                     <span class="text-muted"><i class="fa fa-clock-o"></i> {{ page.date | date: "%-d %b %Y" }}</span>
                         <h1>
-                            {{ page.title }}
+                            
                         </h1>
                     </div>
                     	{{ content }}
@@ -31,9 +31,6 @@ layout: default
                             <div class="small text-right">
                                 <h5>Stats:</h5>
                                 <div> 
-                                {% if site.changyan %}
-                                    <i class="fa fa-comments-o"> </i> <span id = "url::{{post.url | prepend: page.url}}" class = "cy_cmt_count" ></span> comments
-                                {% endif %}
                                 {% if site.disqus %}
                                 <i class="fa fa-comments-o"> </i> <span class='disqus-comment-count' data-disqus-url="{{ site.url }}{{ page.url }}">0</span> comments
                                 {% endif %}
@@ -41,20 +38,32 @@ layout: default
                             </div>
                         </div>
                     </div>
+                    {% assign tagStr = '' %}
+{% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
+{% if page.shortUrl != null %}
+    {% assign url = page.shortUrl %}
+    {% for tag in page.tags %}
+        {% capture tagStr %}{{ tagStr }},{{ tag }}{% endcapture %}
+    {% endfor %}
+{% endif %}
+<hr />
+<h4>Share This Post</h4>
+<div class="social-share">
+    <a class="fa fa-twitter fa-lg"  href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}&via=Emkasec&hashtags={{ tagStr }}" target="_blank" title="Share this post on Twitter"></a> &nbsp;
+    <a class="fa fa-google-plus fa-lg" id="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Share this post on Google Plus"></a>
+
+</div>
                     <br>
                     <div class="row">
                         <div class="col-lg-12">
                             <!-- donate -->
-                            {% if site.donate %}
-                                {% include donate.html %}
-                            {% endif %}
+                            
                             <br>
                             <!-- share -->
                             {% if site.bshare %}
                                 {% include share.html %}
                             {% endif %}
                             <br>
-                            <!-- comment -->
                             {% include comments.html %}
                         </div>
                     </div>

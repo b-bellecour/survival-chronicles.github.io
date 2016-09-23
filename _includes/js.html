@@ -15,3 +15,8 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
+    <script async src="https://www.youtube.com/iframe_api"></script>
+    <script src= "{{ "/js/embedVideo.js" | prepend: site.baseurl }}"></script>
+    {% if page.layout == 'post' %}
+    <script src= "{{ "/js/disqus.js" | prepend: site.baseurl }}"></script>
+    {% endif %}

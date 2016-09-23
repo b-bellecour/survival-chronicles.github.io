@@ -1,12 +1,6 @@
-/*!
- * Start Bootstrap - Agency Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -266,13 +260,63 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/portfolio/header.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+header .bgimg {
+
+    background-attachment: scroll;
+    background-image: url('{{ site.baseurl }}/img/portfolio/header.jpg');
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+@media (min-width: 768px) {
+
+  .bgimg {
+     background-image: none;
+  }
+}
+
+header .video-background {
+  background: #fff;
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  z-index: -99;
+  overflow: hidden;
+}
+header .video-foreground,
+header .video-background iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+@media only screen and (min-aspect-ratio: 16/9) {
+  header .video-foreground { height: 300%; top: -100%; }
+}
+@media only screen and (max-aspect-ratio: 16/9) {
+  header .video-foreground { width: 300%; left: -100%; }
+}
+
+@media (max-width: 767px) {
+
+  .video-foreground {
+    display: none;
+  }
 }
 
 header .intro-text {
@@ -300,7 +344,7 @@ header .intro-text .intro-heading {
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
-        padding-bottom: 200px;
+        padding-bottom: 400px;
     }
 
     header .intro-text .intro-lead-in {

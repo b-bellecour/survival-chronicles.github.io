@@ -1,7 +1,7 @@
 <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
+            <!-- Brand and toggle -->
             <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span>
@@ -42,7 +42,16 @@
 
     <!-- Header -->
     {% if page.title == 'index' %}
-    <header>
+    <header class="bgimg">
+
+        <!-- Video -->
+        <div class="video-background">
+            <div class="video-foreground">
+                <div id="video-header"></div> 
+            </div> 
+        </div> 
+
+            <!-- Site intro text -->
             <div class="container">
                 <div class="intro-text">
                      <div class="intro-lead-in">Combines de derrière les fagots</div>
@@ -50,24 +59,22 @@
                         <a href="#services" class="page-scroll btn btn-xl">YES !!</a>
                 </div>
             </div>
-    
+
+
     </header>
     {% else %}
-     <header>
-        <div class="container">
+     <header style="background-image: url('{{ site.baseurl }}img/portfolio/{{ page.img }}')">
+
+          <div class="container">
             <div class="intro-text">
                 {% for post in site.posts limit:1 %}
-
-<style>
-   header { background-image: url('{{ site.baseurl }}img/portfolio/{{ post.img }}' )}
-</style>
-                <div class="intro-heading">{{ page.title }}</div>
-              
+                 <div class="intro-heading">{{ page.title }}</div>
                 {% endfor %}
-                <a href="#services" class="page-scroll btn btn-xl">lire</a>
-                
+                 <a href="#post" class="page-scroll btn btn-xl">lire</a>
             </div>
-        </div>
+            <div id="post"></div>
+         </div>
+        
     </header>
     {% endif %}
 <!--

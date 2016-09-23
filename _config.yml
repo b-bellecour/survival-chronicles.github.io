@@ -1,5 +1,5 @@
-siteurl: https://emk4.github.io/survival-chronicles.github.io/
-baseurl: /survival-chronicles.github.io
+siteurl: https://emk4.github.io/survival-chronicles.github.io
+baseurl: /survival-chronicles.github.io/
 # Site settings
 title: Survival chronicles
 email: emkal@survival-chronicles.com
@@ -60,6 +60,12 @@ social:
 address:
   - line: 3481 Melrose Place
   - line: Beverly Hills, CA 90210
+
+# social
+
+disqus:
+  name: jalpc
+  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
 
 # Build settings
 markdown: kramdown
