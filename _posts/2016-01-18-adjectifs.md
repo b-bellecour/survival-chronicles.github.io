@@ -2,24 +2,24 @@
 title: Les adjectifs
 subtitle: Website Design
 layout: post
-date: 2014-07-18
+date: 2016-01-18
 img: pote.jpg
 thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Langue japonaise
+category: langue-japonaise
 description: Exactement comme en français, les verbes japonais se divisent en 3 groupes.
+tags:
+- initiation
+- langue-japonaise
+- adjectifs
+- 形容詞
 
 ---
-<br>
-<br>
 
-# <ruby><rb>形容詞</rb></ruby>
 
-<span>Les adjectifs japonais se divisent en deux catégories, les adjectifs en</span> <span style="color: #da314b;">I</span> <span>et les adjectifs en</span> <span style="color: #da314b;">NA</span><span>.</span> <span>les adj en</span> _i_ <span>sont ceux qui au présent, et à l'affirmatif, se terminent par</span> **あい; いい; うい** <span>ou</span> **おい**<span>, comme </span><ruby><rb>赤</rb><rt>あか</rt></ruby><span>い (rouge) ou  </span><ruby><rb>黒</rb><rt>くろ</rt></ruby><span>い (noir). Les adj en</span> _na_<span> sont ceux qui ne se terminent</span> _PAS_ <span>par l'une de ses quatre terminaisons. Attention piège: les adjectifs qui se finissent en えい, ne sont pas des adjectifs dits en</span> <span style="color: #da314b;">i</span> <span>mais en</span> <span style="color: #da314b;">na</span><span>, comme きれい (joli, ) ou</span> <ruby><rb>有名</rb><rt>ゆうめい</rt></ruby><span>(célèbre).</span>
 
-## Adjectifs en i - <span style="font-size: 14pt;">い<ruby><rb>形容詞</rb><rt><span style="font-size: 8pt;">けいようし</span></rt></ruby></span>
+<span>Les adjectifs japonais se divisent en deux catégories, les adjectifs en</span> <span style="color: #da314b;">I</span> <span>et les adjectifs en</span> <span style="color: #da314b;">NA</span><span>.</span> <span>les adj en</span> _i_ <span>sont ceux qui au présent, et à l'affirmatif, se terminent par</span> あい; いい; うい <span>ou</span> おい<span>, comme </span><ruby><rb>赤</rb><rt>あか</rt></ruby><span>い (rouge) ou  </span><ruby><rb>黒</rb><rt>くろ</rt></ruby><span>い (noir). Les adj en</span> _na_<span> sont ceux qui ne se terminent</span> _PAS_ <span>par l'une de ses quatre terminaisons. Attention piège: les adjectifs qui se finissent en えい, ne sont pas des adjectifs dits en</span> <span style="color: #da314b;">i</span> <span>mais en</span> <span style="color: #da314b;">na</span><span>, comme きれい (joli, ) ou</span> <ruby><rb>有名</rb><rt>ゆうめい</rt></ruby><span>(célèbre).</span>
+
+# Adjectifs en i - <span>い<ruby><rb>形容詞</rb><rt><span>けいようし</span></rt></ruby></span>
 
 <span>Commençons par les adjectifs du premier groupe, ceux en</span> <span style="color: #da314b;">i</span><span>. Ils forment un énoncé minimal suffisant, c'est-à-dire qu'à eux seuls, ils suffisent à former une phrase complète. Voici une première liste non-exhaustive des adjectifs en i, suivi de leurs antonymes.</span>
 
@@ -223,8 +223,8 @@ description: Exactement comme en français, les verbes japonais se divisent en 3
 
 </table>
 <br>
-### Conjugaisons négatives et passées des adjectifs du premier groupe
-<br>
+## Conjugaisons négatives et passées
+
 <table>
 
 
@@ -280,14 +280,10 @@ description: Exactement comme en français, les verbes japonais se divisent en 3
 
 <td>赤<span style="color: #da314b;">くありませんでした</span></td>
 
-<td>ku arimasen deshita remplace い.  </td>
-
-</tr>
-
-</table>
+<td>ku arimasen deshita remplace い.
+</td></tr></table>  
 <br>
-<span>Ce tableau est universel, les terminaisons de couleur rose s'appliquent à tous. C'est la première notion de conjugaison, cinq terminaisons, que je me permets de vous rappeler :</span> 
-<br> 
+Ce tableau est universel, les terminaisons de couleur rose s'appliquent à tous. C'est la première notion de conjugaison, cinq terminaisons, que je me permets de vous rappeler :  
 
 **Forme affirmative au passé :** <span>い est remplacé par かった -</span> <ruby><rb>近</rb><rt>ちか</rt></ruby><span style="color: #da314b;">い</span> <span></span> <span style="font-size: 18pt;">→</span><span> 近</span><span style="color: #da314b;">かった</span> <span>(Proche → C’était proche)</span>  
 **Forme négative au présent :** <span>い est remplacé par くないです -</span> <ruby><rb>早</rb><rt>はや</rt></ruby><span style="color: #da314b;">い</span> **<span style="font-size: 18pt;">→</span>** <span>早</span><span style="color: #993366;"><span style="color: #da314b;">くないです</span> </span><span>(Rapide</span> **→**<span> Pas rapide)</span>  
@@ -296,8 +292,8 @@ description: Exactement comme en français, les verbes japonais se divisent en 3
 **Forme négative polie au passé :** <span>い est remplacé par くありませんでした -</span> <ruby><rb>良</rb><rt>よ</rt></ruby><span style="color: #da314b;">い</span> **<span style="font-size: 18pt;">→</span>** <span>良</span><span style="color: #993366;"><span style="color: #da314b;">くありませんでした</span> </span><span>(Bien </span>**→**<span> Ce n'était pas bien)</span> 
 
 <br> 
-### Formes conditionnelles
-<br>
+## Formes conditionnelles
+
 <span>Comme les verbes, les adjectifs en</span> <span style="color: #da314b;">i</span> <span>ont des formes conditionnelles.</span><span> Elles sont au nombre de deux, contrairement aux verbes qui en possèdent quatre. Ces deux formes sont appelées </span>_-tara_ <span>et</span> _-(e)ba_<span>.</span>
 <br>
 
@@ -323,22 +319,20 @@ description: Exactement comme en français, les verbes japonais se divisent en 3
 <span>Attention à いい qui ne se conjugue pas, il sera systématiquement remplacé par</span> <ruby><rb>良</rb><rt>よ</rt></ruby><span>い.</span>
 
 <br>
-### Forme adverbiale
-
+## Forme adverbiale
 <span>Pour former l'</span>_adverbe_<span>, la contraction se fait en remplaçant le</span> <span style="color: #da314b;">i</span> <span>final par</span> <span style="color: #da314b;">ku</span><span>.</span> <span></span><span>exemple :</span> <ruby><rb>優</rb><rt>やさ</rt></ruby><span>し</span><span style="color: #993366;"><span style="color: #da314b;">い</span> </span><span>(gentil(le)) → 優し</span><span style="color: #993366;"><span style="color: #da314b;">く</span> </span><span>(gentiment)</span>
 
 *   もっと優し<span style="color: #da314b;">く</span>！Se traduit par "Plus gentim<span style="color: #da314b;">ent </span>!"
 
 <br> 
-### Forme substantive
-
+## Forme substantive
 <span>Pour transformer un adj en i en </span>_nom_<span>, la contraction se fait en remplaçant le</span> _i_ <span>final par</span> _sa_<span>.</span> <span></span><span>exemple :</span> <span style="color: #000000;"><ruby><rb>強</rb><rt>つよ</rt></ruby></span><span style="color: #993366;"><span style="color: #da314b;">い </span></span><span>(fort) → 強</span><span style="color: #da314b;">さ</span><span style="color: #993366;"> </span><span>(force)</span>
 
 *   彼の強<span style="color: #993366;">さ</span>はすごいです！Se traduit par "Sa <span style="color: #da314b;">force</span> est incroyable."
 
 <br> 
 
-## Adjectifs en na - な<ruby><rb>形容詞</rb><rt><span style="font-size: 8pt;">けいようし</span></rt></ruby>
+# Adjectifs en na - な<ruby><rb>形容詞</rb><rt><span style="font-size: 8pt;">けいようし</span></rt></ruby>
 
 <span>Les adjectifs en</span> <span style="color: #da314b;">na</span> <span>ne se conjuguent</span> <span style="color: #da314b;">PAS</span><span>. Ainsi les formes conditionnelles et substantives ne s'appliquent pas aux adjectifs du deuxième groupe</span>_._ <span>C'est le verbe</span> <span style="color: #da314b;">**être**</span> <span>qui changera de forme. </span><span>Les adjectifs en</span> _na_ <span>forment un énoncé minimal suffisant avec la copule だ. Voici une petite liste non-exhaustive.</span>  
 
@@ -351,9 +345,9 @@ description: Exactement comme en français, les verbes japonais se divisent en 3
 <span>素敵な</span> _suteki-na_<span> : superbe, magnifique</span>  
 <span>便利な</span> _benri-na_<span> : pratique</span>  
 <span>静かな</span> _shizuka-na_<span> : calme</span>  
-<span>賑やかな</span> _nigiyaka-na_<span> : animé</span>
-
-#### Conjugaisons négatives et passées des adjectifs du second groupe
+<span>賑やかな</span> _nigiyaka-na_<span> : animé</span>  
+<br> 
+## Conjugaisons négatives et passées
 
 <table>
 
@@ -413,9 +407,6 @@ description: Exactement comme en français, les verbes japonais se divisent en 3
 <td>de ha arimasen deshita remplace na</td>
 
 </tr>
-
-
-
 </table>
 <br>
 <span>C'est effectivement le verbe</span> _être_ <span>qui est conjugué ici. Si on se réfère au précédent tableau de conjugaison, on peut constater que la mécanique reste similaire à peu de chose près  :</span>  
@@ -428,15 +419,13 @@ description: Exactement comme en français, les verbes japonais se divisent en 3
 **Forme négative polie au passé :**<span> な est remplacé par ではありませんでした - ゆかい</span><span style="color: #da314b;">な</span> **<span style="font-size: 18pt;">→</span>** <span>ゆかい</span><span style="color: #993366;"><span style="color: #da314b;">ではありませんでした</span> </span><span>(Agréable </span>**→**<span> Déplaisant)</span>
 
 <br>
-### Forme adverbiale
-
+## Forme adverbiale
 <span>Pour former l'adverbe, la contraction se fait en remplaçant le</span> _na_<span> par</span> _ni_<span>. E</span><span>xemple : 静か</span><span style="color: #993366;"><span style="color: #da314b;">な</span> </span><span>(Calme) → 静か</span><span style="color: #993366;"><span style="color: #da314b;">に</span> </span><span>(Calmement)</span>
 
 *   静か<span style="color: #993366;">に</span>してください！Se traduit par "Faites-le calmem<span style="color: #da314b;">ent </span>!".
 
 <br>
-### Technique secrète -<ruby><rb>的</rb><rt><span style="font-size: 8pt;">てき</span></rt></ruby>
-
+## Technique secrète -<ruby><rb>的</rb><rt><span style="font-size: 8pt;">てき</span></rt></ruby>
 <span>Vous pouvez transformer la majorité des</span> _noms_ <span>en adjectif en</span> _na._ <span>La contraction se fait un rajoutant</span> _teki na_ <span>après le nom.</span> <span></span><span>exemple :</span> <ruby><rb>感情</rb><rt>かんじょう</rt></ruby><span style="color: #993366;"> </span><span>(émotion) → 感情</span><span style="color: #993366;"><span style="color: #da314b;">的な</span> </span><span>(Sensible)</span>
 
 *   彼女は感情<span style="color: #da314b;">的な</span><ruby><rb>人</rb><rt>ひと</rt></ruby>ですね！Se traduit par "Elle est sensible, n'est-ce pas !"

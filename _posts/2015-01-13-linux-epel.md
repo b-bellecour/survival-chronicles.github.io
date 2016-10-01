@@ -8,6 +8,7 @@ categories: [Linux]
 tags: [epel]
 icon: icon-centos
 img: baito.jpg
+author: emka
 ---
 
 RHEL6:

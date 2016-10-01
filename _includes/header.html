@@ -9,29 +9,48 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+
+                {% if page.title == 'index' %}
                 <a class="navbar-brand page-scroll" href="#page-top">{{site.title}}</a>
             </div>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
                         <a href="#page-top"></a>
-                    </li>
                     <li>
                         <a class="page-scroll" href="#services">au menu</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#portfolio">news</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#about">emploi</a>
+                {% else %}
+                <a class="navbar-brand page-scroll" href="{{site.baseurl}}">{{site.title}}</a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="site.baseurl"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#team">langue japonaise</a>
+                        <a class="page-scroll" href="{{site.baseurl}}#services">au menu</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">formalités</a>
+                        <a class="page-scroll" href="{{site.baseurl}}#portfolio">news</a>
+                    </li>
+                {% endif %}
+
+                    <li>
+                        <a class="page-scroll" href="{{ site.baseurl }}/emploi/">emploi</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="{{ site.baseurl }}/langue-japonaise/">langue japonaise</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="{{ site.baseurl }}/formalites/">formalités</a>
                     </li>
                 </ul>
             </div>

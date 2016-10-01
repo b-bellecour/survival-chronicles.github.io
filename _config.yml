@@ -1,4 +1,4 @@
-siteurl: https://emk4.github.io/survival-chronicles.github.io
+url: https://emk4.github.io/survival-chronicles.github.io
 baseurl: /survival-chronicles.github.io/
 # Site settings
 title: Survival chronicles
@@ -6,41 +6,9 @@ email: emkal@survival-chronicles.com
 description: "Chronicles of a french IT engineer trying to make his way in Tokyo"
 
 
-# Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
+#author
+author:
+  name: 'Emka'
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

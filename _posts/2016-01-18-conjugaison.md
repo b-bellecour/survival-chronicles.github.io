@@ -8,7 +8,7 @@ thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Langue japonaise
+category: langue-japonaise
 description: Exactement comme en français, les verbes japonais se divisent en 3 groupes.
 
 ---

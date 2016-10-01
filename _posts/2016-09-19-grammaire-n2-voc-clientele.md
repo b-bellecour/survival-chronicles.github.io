@@ -8,8 +8,12 @@ thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Langue japonaise
+category: langue-japonaise
 description: Les huit points de grammaire suivants sont principalement utilisés à l'écrit, notamment dans des annonces professionnelles.
+tags:
+- Jekyll
+- ShareLink
+- SocialShare
 
 ---
 <br>
