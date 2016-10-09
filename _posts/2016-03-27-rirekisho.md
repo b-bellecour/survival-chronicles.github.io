@@ -9,7 +9,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: emploi
-description: Comment écrire son CV Japonais sans faire marrer le RH.
+description: Comment écrire son cv sans faire marrer le RH.
 tags:
 - emplois
 - CV

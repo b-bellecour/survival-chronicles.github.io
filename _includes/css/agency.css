@@ -344,7 +344,7 @@ header .intro-text .intro-heading {
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
-        padding-bottom: 400px;
+        padding-bottom: 200px;
     }
 
     header .intro-text .intro-lead-in {
@@ -674,13 +674,15 @@ section h3.section-subheading {
 }
 
 .team-member {
-    margin-bottom: 50px;
+    margin-bottom: 5px;
     text-align: center;
 }
 
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
+    height: 15em;
+    width: 15em;
 }
 
 .team-member h4 {
@@ -700,7 +702,7 @@ aside.clients img {
 section#contact {
     background-color: #222;
     background-image: url('{{ site.baseurl }}/img/map-image.png');
-    background-position: center;
+    background-position: fixed;
     background-repeat: no-repeat;
 }
 
@@ -763,8 +765,23 @@ section#contact .text-danger {
 }
 
 footer {
-    padding: 25px 0;
+    
     text-align: center;
+}
+.footerino {
+
+    background: url('{{ site.baseurl }}img/style/tri-blanc.png'), 50% 0 url('{{ site.baseurl }}/img/footer.png') ;
+    background-size: auto, 1920px;
+    background-repeat: repeat-x, no-repeat ;
+    background-position: center, absolute;
+
+}
+.tri{
+  content: '';
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  background: transparent url('{{ site.baseurl }}img/style/tri-blanc.png') 50% 0 repeat-x;
 }
 
 footer span.copyright {
@@ -801,10 +818,31 @@ ul.social-buttons li a {
     transition: all .3s;
 }
 
+ul.social-buttons2 li a {
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    outline: 0;
+    color: #222;
+    background-color: #fff;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
     background-color: #{{ site.data.template.color.primary }};
+}
+ul.social-buttons2 li a:hover,
+ul.social-buttons2 li a:focus,
+ul.social-buttons2 li a:active {
+    background-color: #{{ site.data.template.color.primary }};
+    color: #fff;
 }
 
 .btn:focus,

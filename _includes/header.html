@@ -73,8 +73,8 @@
             <!-- Site intro text -->
             <div class="container">
                 <div class="intro-text">
-                     <div class="intro-lead-in">Combines de derrière les fagots</div>
-                     <div class="intro-heading">Pour survivre au japon</div>
+                     <div class="intro-lead-in" style="text-shadow: 1px 1px #222;">Combines de derrière les fagots</div>
+                     <div class="intro-heading" style="text-shadow: 2px 2px #d44950;">Pour survivre au japon</div>
                         <a href="#services" class="page-scroll btn btn-xl">YES !!</a>
                 </div>
             </div>
@@ -87,8 +87,10 @@
           <div class="container">
             <div class="intro-text">
                 {% for post in site.posts limit:1 %}
-                 <div class="intro-heading">{{ page.title }}</div>
+                 <div class="intro-heading" style="margin-bottom: 10px; text-shadow: 2px 2px #d44950;">{{ page.title }}</div>
+                 <div class="intro-lead-in" style="text-shadow: 1px 1px #222;">{{ page.description }}</div>
                 {% endfor %}
+                <br>
                  <a href="#post" class="page-scroll btn btn-xl">lire</a>
             </div>
             <div id="post"></div>
