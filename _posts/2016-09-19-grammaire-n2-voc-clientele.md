@@ -2,9 +2,9 @@
 title: Grammaire N2, Annonces dédiées à la clientèle.
 layout: post
 date: 2014-07-18
-img: oshiraseN2.jpg
+img: gramn2.jpg
 category: langue-japonaise
-description: Les huit points de grammaire suivants sont principalement utilisés à l'écrit, notamment dans des annonces professionnelles.
+description: Les huit points suivants sont principalement utilisés à l'écrit.
 tags:
 - Grammaire
 - JLPT2

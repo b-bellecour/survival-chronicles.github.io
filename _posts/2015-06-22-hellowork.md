@@ -2,7 +2,7 @@
 title: Hellowork, CDI dealer
 layout: post
 date: 2015-06-22
-img: oshiraseN2.jpg
+img: hellowork.jpg
 category: emploi
 description: Vous n'êtes pas venu au Japon pour faire le touriste, Hellowork vous aide à exercer votre métier
 tags:

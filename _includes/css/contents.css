@@ -3158,9 +3158,10 @@ code {
 }
 .ibox {
   clear: both;
-  margin-bottom: 25px;
+  margin-bottom: 0px;
   margin-top: 0;
   padding: 0;
+
 }
 .ibox.collapsed .ibox-content {
   display: none;
@@ -3191,14 +3192,32 @@ code {
   min-height: 48px;
 }
 .ibox-content {
-  background-color: #ffffff;
+  background-color: rgba(255, 255, 255, 1);
   color: inherit;
   padding: 15px 20px 20px 20px;
   border-color: #e7eaec;
   border-image: none;
   border-style: solid solid none;
   border-width: 1px 0;
+  transition: all 2s ease;
+            -moz-transition: all 2s ease;
+            -webkit-transition: all 2s ease;
+            -o-transition: all 2s ease;
+            -ms-transition: all 2s ease;
+            -khtml-transition: all 2s ease;
 }
+.ibox-content:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 15px 20px 60px 20px;
+            
+            transition: all 2s ease;
+            -moz-transition: all 2s ease;
+            -webkit-transition: all 2s ease;
+            -o-transition: all 2s ease;
+            -ms-transition: all 2s ease;
+            -khtml-transition: all 2s ease;
+  
+  }
 .ibox-footer {
   color: inherit;
   border-top: 1px solid #e7eaec;
@@ -3410,6 +3429,7 @@ table.table-mail tr td {
 }
 .text-muted {
   color: #b4bcc2;
+
 }
 .text-white {
   color: #ffffff;

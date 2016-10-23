@@ -1,12 +1,10 @@
 ---
 title: Les adjectifs
-subtitle: Website Design
 layout: post
 date: 2016-01-18
-img: pote.jpg
-thumbnail: dreams-thumbnail.png
+img: adj.jpg
 category: langue-japonaise
-description: Exactement comme en français, les verbes japonais se divisent en 3 groupes.
+description: Premieres notions de conjuguaison.
 tags:
 - initiation
 - langue-japonaise

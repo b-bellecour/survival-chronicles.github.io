@@ -2,9 +2,9 @@
 title: Les particules
 layout: post
 date: 2015-12-8
-img: pote.jpg
+img: prtcl.jpg
 category: langue-japonaise
-description: C'est le moment d'aller se prendre un café
+description: C'est le moment d'aller se prendre un café.
 tags :
 - inititation
 - langue-japonaise
@@ -14,7 +14,7 @@ tags :
 ---
 
 
-## <ruby><rb>助詞</rb><rt>じょし</rt></ruby>
+# <ruby><rb>助詞</rb><rt>じょし</rt></ruby>
 
 <span>Les particules servent à relier les mots entre eux. Elles articulent les phrases, et structurent le sens. A noter qu'il n'est pas bon de faire de la traduction littérale comme les multiples exemples ci-dessous vous l'indiqueront. Prenez la bonne habitude de traduire du sens et non des mots.</span>  
 <br>
@@ -92,7 +92,7 @@ tags :
 * * *
 
 # で
-</span><span>indique le moyen, peut être assimilé à "en" : </span><ruby><rb>彼女</rb><rt>かのじょ</rt></ruby><span>はバスで</span><ruby><rb>行</rb><rt>い</rt></ruby><span>きました. で relie le mot</span> **bus** <span>au verbe</span> **aller**<span>, définit le moyen de transport.</span>
+<span>indique le moyen, peut être assimilé à "en" : </span><ruby><rb>彼女</rb><rt>かのじょ</rt></ruby><span>はバスで</span><ruby><rb>行</rb><rt>い</rt></ruby><span>きました. で relie le mot</span> **bus** <span>au verbe</span> **aller**<span>, définit le moyen de transport.</span>
 
 *   彼女はバス<span style="color: #da314b;">で</span>行きました. Se traduit par "Elle y est allée <span style="color: #da314b;">en</span> bus"
 

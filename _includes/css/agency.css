@@ -260,7 +260,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/portfolio/header.jpg');
+    background-image: url('{{ site.baseurl }}/img/header/header.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -272,7 +272,7 @@ header {
 header .bgimg {
 
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/portfolio/header.jpg');
+    background-image: url('{{ site.baseurl }}/img/header/header.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;

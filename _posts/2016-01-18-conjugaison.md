@@ -1,15 +1,16 @@
 ---
 title: Conjugaison, Les 3 groupes de verbes
-subtitle: Website Design
 layout: post
-date: 2014-07-18
-img: pote.jpg
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+date: 2015-07-18
+img: verb.jpg
 category: langue-japonaise
 description: Exactement comme en français, les verbes japonais se divisent en 3 groupes.
+tags :
+- inititation
+- langue-japonaise
+- conjuguaison
+- verbes
+- 動詞
 
 ---
 <br>

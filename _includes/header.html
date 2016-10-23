@@ -82,13 +82,14 @@
 
     </header>
     {% else %}
-     <header style="background-image: url('{{ site.baseurl }}img/portfolio/{{ page.img }}')">
+     <header style="background-image: url('{{ site.baseurl }}img/header/{{ page.img }}')">
 
           <div class="container">
             <div class="intro-text">
                 {% for post in site.posts limit:1 %}
                  <div class="intro-heading" style="margin-bottom: 10px; text-shadow: 2px 2px #d44950;">{{ page.title }}</div>
-                 <div class="intro-lead-in" style="text-shadow: 1px 1px #222;">{{ page.description }}</div>
+                 <br>
+                 <div class="intro-lead-in" style="text-shadow: 2px 1px 1px #222;">{{ page.description }}</div>
                 {% endfor %}
                 <br>
                  <a href="#post" class="page-scroll btn btn-xl">lire</a>

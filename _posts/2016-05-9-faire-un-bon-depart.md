@@ -1,8 +1,8 @@
 ---
 title: Faire un bon départ
 layout: post
-date: 2015-10-9
-img: pote.jpg
+date: 2016-05-9
+img: start.jpg
 category: langue-japonaise
 description: Vous partez de zero et vous voulez apprendre le japonais ? Bienvenue.
 tags :

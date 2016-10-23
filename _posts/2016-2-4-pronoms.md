@@ -1,10 +1,10 @@
 ---
 title: Les tons et pronoms personnels
 layout: post
-date: 2015-12-8
-img: pote.jpg
+date: 2016-02-8
+img: tons.jpg
 category: langue-japonaise
-description: Vous venez d'apprendre vos kana et vous voulez en découdre. Pas de problème, c'est ici que ça se passe
+description: Vous venez d'apprendre vos kana et vous voulez en découdre.
 tags :
 - inititation
 - langue-japonaise
