@@ -14,7 +14,7 @@ tags:
 
 Pour éviter de vous faire refouler, veillez à vous munir des documents suivants:
 
-*   Votre passeport **et** Gaikokujin toroku shomeisho.
+*   Votre passeport **et** Zairyu card.
 *   Votre Rirekisho
 *   Votre Adresse en Kanji.
 *   Votre shokumukeirekisho si vous voulez faire du zèle.

@@ -26,6 +26,7 @@
                             {{ post.title }}
                         </h2>
                     </a>
+                     <a href="{{ site.baseurl }}{{ post.url }}"  style="text-decoration: none; color: #333;">
                     <div class="small m-b-xs">
                         <strong>{{ site.author.name }}</strong> <span class="text-muted"><i class="fa fa-clock-o"></i> {{ post.date | date: "%-d %b %Y" }}</span>
                     </div>
@@ -41,7 +42,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="small text-right">
-                                <h5>Stats:</h5>
+                                
                                 <div>
                                 {% if site.disqus %}
                                 <i class="fa fa-comments-o"> </i> <span class='disqus-comment-count' data-disqus-url="{{ site.url }}{{ post.url }}">0</span> comments
@@ -54,7 +55,7 @@
                 </div>
             </div>
          </div>
-        
+        </a>
         </li>
         {% endfor %}
         </ul>

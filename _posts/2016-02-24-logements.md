@@ -1,15 +1,10 @@
 ---
 title: Les logements qui vont bien
-subtitle: se loger
 layout: post
 date: 2016-02-24
-img: oshiraseN2.jpg
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+img: logement.jpg
 category: formalites
-description: Les huit points de grammaire suivants sont principalement utilisés à l'écrit, notamment dans des annonces professionnelles.
+description: 4 différents moyens de vous loger au japon.
 tags:
 - Logements
 - Appartements

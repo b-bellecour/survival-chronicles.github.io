@@ -1,11 +1,8 @@
 ---
 title: Trouver un appart sans perdre un bras
-subtitle: se loger
 layout: post
 date: 2015-12-8
-img: oshiraseN2.jpg
-thumbnail: dreams-thumbnail.png
-alt: image-alt
+img: appart.jpg
 category: formalites
 description: avec les polissons de chintai.net
 tags:

@@ -1,13 +1,8 @@
 ---
 title: Rirekisho le CV japonais
-subtitle: se loger
 layout: post
 date: 2016-02-24
-img: oshiraseN2.jpg
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+img: rirekisho.jpg
 category: emploi
 description: Comment écrire son cv sans faire marrer le RH.
 tags:

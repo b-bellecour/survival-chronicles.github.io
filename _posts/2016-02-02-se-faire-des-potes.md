@@ -2,7 +2,7 @@
 title: Se faire des potes
 layout: post
 date: 2016-02-24
-img: oshiraseN2.jpg
+img: pote.jpg
 category: formalites
 description: Se sociabiliser sans passer pour une quiche
 tags:
