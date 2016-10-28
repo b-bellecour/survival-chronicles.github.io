@@ -27,9 +27,9 @@ people:
 
 # social
 
-disqus:
-  name: survival-chronicles
-  public_key: 16I9Q3peU6sDEEzM1v1DtRNOB6awZGnZkqIktUxtrr68Y1kxY4pHmLFxSrWjHCWX
+#disqus:
+ # name: survival-chronicles
+ # public_key: 16I9Q3peU6sDEEzM1v1DtRNOB6awZGnZkqIktUxtrr68Y1kxY4pHmLFxSrWjHCWX
 
 # Build settings
 markdown: kramdown
