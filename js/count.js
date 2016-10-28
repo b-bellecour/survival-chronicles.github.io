@@ -1,13 +1,12 @@
 
       /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-      var disqus_shortname = 'perfectlyrandom'; // required: replace example with your forum shortname
+      var disqus_shortname = 'survival-chronicles'; // required: replace example with your forum shortname
       // var disqus_developer = 1; // Comment out when the site is live
 
       /* * * DON'T EDIT BELOW THIS LINE * * */
       (function () {
         var s = document.createElement('script'); s.async = true;
         s.type = 'text/javascript';
-        s.src = 'http://' + 'survival-chronicles' + '.disqus.com/count.js';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
       }());
-  
