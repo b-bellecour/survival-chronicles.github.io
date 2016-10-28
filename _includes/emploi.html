@@ -44,9 +44,7 @@
                             <div class="small text-right">
                                 
                                 <div>
-                                {% if site.disqus %}
-                                <i class="fa fa-comments-o"> </i> <span class='disqus-comment-count' data-disqus-url="{{ site.url }}{{ post.url }}">0</span> comments
-                                {% endif %}
+                                <i class="fa fa-comments-o"> </i> <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a> 
                                 </div>
                                 </div>
                             </div>

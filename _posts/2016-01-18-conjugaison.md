@@ -5,7 +5,7 @@ date: 2015-07-18
 img: verb.jpg
 category: langue-japonaise
 description: Exactement comme en français, les verbes japonais se divisent en 3 groupes.
-tags :
+tags:
 - inititation
 - langue-japonaise
 - conjuguaison
