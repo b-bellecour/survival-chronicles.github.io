@@ -259,20 +259,20 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
-    background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header/header.jpg');
-    background-position: center center;
-    background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
+    -webkit-background-size: auto, cover;
+    -moz-background-size: auto, cover;
+    background-size: auto, cover;
     -o-background-size: cover;
+    background: url('{{ site.baseurl }}img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}/img/header/header.jpg');
+    background-repeat: repeat-x, no-repeat ;
+    background-position: bottom;, center;
+
 }
 
 header .bgimg {
 
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header/header.jpg');
+    background: url('{{ site.baseurl }}/img/header/header.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -284,7 +284,7 @@ header .bgimg {
 @media (min-width: 768px) {
 
   .bgimg {
-     background-image: none;
+     background: none;
   }
 }
 

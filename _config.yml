@@ -28,8 +28,8 @@ people:
 # social
 
 disqus:
-  name: jalpc
-  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+  name: survival-chronicles
+  public_key: 16I9Q3peU6sDEEzM1v1DtRNOB6awZGnZkqIktUxtrr68Y1kxY4pHmLFxSrWjHCWX
 
 # Build settings
 markdown: kramdown
