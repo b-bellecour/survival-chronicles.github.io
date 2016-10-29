@@ -28,7 +28,7 @@
                         <div class="vote-info">
                      
                         
-                            <i class="fa fa-comments-o"> </i> <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a> 
+                            <i class="fa fa-comments-o"> </i> <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
                         
                             <i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
                             <i class="fa fa-user"></i> <a>{{ site.author.name }}</a>
