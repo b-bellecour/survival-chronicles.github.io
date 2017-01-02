@@ -2,7 +2,7 @@
 
 <div class="row">
     <div class="col-lg-12 text-center">
-        <div class="navy-line"></div>
+        <div class="navy-line "></div>
           
         <h2 class="section-heading" >derniers articles</h2>
 
@@ -11,15 +11,15 @@
 
 <div class="row">
     <div class="col-lg-8 col-lg-offset-2">
-        <div class="wrapper wrapper-content animated fadeInRight">
+        <div class="wrapper wrapper-content">
 
             <!-- latest 10 blog -->
             {% for post in site.posts limit:10 %}
 
             <div class="vote-item" style="background-image: url('{{ site.baseurl }}img/header/{{ post.img }}'); background-size: 100%; ">
-            <div class="vote-item-content">
+            <div class="vote-item-content ">
                 <div class="row">
-                    <div class="col-md-10">
+                    <div class="col-md-10 animated bounceInRight wow">
                         <div class="vote-actions">
                         </div>
                         <a href="{{ post.url | prepend: site.baseurl }}" class="vote-title btn-link" >

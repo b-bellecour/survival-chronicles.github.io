@@ -60,7 +60,8 @@
     </nav>
 
     <!-- Header -->
-    {% if page.title == 'index' %}
+    {% case page.title %}
+    {% when 'index' %}
     <header class="bgimg">
 
         <!-- Video -->
@@ -75,11 +76,75 @@
                 <div class="intro-text">
                      <div class="intro-lead-in" style="text-shadow: 1px 1px #222;">Combines de derrière les fagots</div>
                      <div class="intro-heading" style="text-shadow: 2px 2px #d44950;">Pour survivre au japon</div>
-                        <a href="#services" class="page-scroll btn btn-xl">YES !!</a>
+                        <a href="#services" class="page-scroll buttonz">Yes !!</a>
                 </div>
             </div>
 
 
+    </header>
+    {% when 'langue-japonaise' %}
+         <header style="   
+    background: url('{{ site.baseurl }}img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}img/header/{{ page.img }}');
+    background-repeat: repeat-x, no-repeat ;
+    background-position: bottom, center;
+    background-size: auto, cover;">
+
+          <div class="container">
+            <div class="intro-text">
+                {% for post in site.posts limit:1 %}
+                 <div class="intro-heading" style="margin-bottom: 10px; text-shadow: 2px 2px #d44950;">{{ page.title }}</div>
+                 <br>
+                 <div class="intro-lead-in" style="text-shadow: 2px 1px 1px #222;">{{ page.description }}</div>
+                {% endfor %}
+                <br>
+                 <a href="#post" class="page-scroll buttonz">Oshiete kudasai !</a>
+            </div>
+            <div id="post"></div>
+         </div>
+        
+    </header>
+     </header>
+    {% when 'emploi' %}
+         <header style="   
+    background: url('{{ site.baseurl }}img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}img/header/{{ page.img }}');
+    background-repeat: repeat-x, no-repeat ;
+    background-position: bottom, center;
+    background-size: auto, cover;">
+
+          <div class="container">
+            <div class="intro-text">
+                {% for post in site.posts limit:1 %}
+                 <div class="intro-heading" style="margin-bottom: 10px; text-shadow: 2px 2px #d44950;">{{ page.title }}</div>
+                 <br>
+                 <div class="intro-lead-in" style="text-shadow: 2px 1px 1px #222;">{{ page.description }}</div>
+                {% endfor %}
+                <br>
+                 <a href="#post" class="page-scroll buttonz">Vite ! un taff !</a>
+            </div>
+            <div id="post"></div>
+         </div>
+        
+    </header>
+        {% when 'formalites' %}
+         <header style="   
+    background: url('{{ site.baseurl }}img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}img/header/{{ page.img }}');
+    background-repeat: repeat-x, no-repeat ;
+    background-position: bottom, center;
+    background-size: auto, cover;">
+
+          <div class="container">
+            <div class="intro-text">
+                {% for post in site.posts limit:1 %}
+                 <div class="intro-heading" style="margin-bottom: 10px; text-shadow: 2px 2px #d44950;">{{ page.title }}</div>
+                 <br>
+                 <div class="intro-lead-in" style="text-shadow: 2px 1px 1px #222;">{{ page.description }}</div>
+                {% endfor %}
+                <br>
+                 <a href="#post" class="page-scroll buttonz">Je suis prêt(e) !</a>
+            </div>
+            <div id="post"></div>
+         </div>
+        
     </header>
     {% else %}
      <header style="   
@@ -96,13 +161,14 @@
                  <div class="intro-lead-in" style="text-shadow: 2px 1px 1px #222;">{{ page.description }}</div>
                 {% endfor %}
                 <br>
-                 <a href="#post" class="page-scroll btn btn-xl">lire</a>
+                 <a href="#post" class="page-scroll buttonz">Lire !</a>
             </div>
             <div id="post"></div>
          </div>
         
     </header>
-    {% endif %}
+    {% endcase %}
+
 <!--
         {% for page in site.pages %}
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}

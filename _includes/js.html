@@ -18,6 +18,8 @@
     <script async src="https://www.youtube.com/iframe_api"></script>
     <script src= "{{ "/js/embedVideo.js" | prepend: site.baseurl }}"></script>
     <script src= "{{ "/js/count.js" | prepend: site.baseurl }}"></script>
+    <script src= "{{ "/js/wow.js" | prepend: site.baseurl }}"></script>
+    <script> new WOW().init(); </script>
       <!-- jPages -->
   <script src="{{"js/jPages.js" | prepend: site.baseurl}}"></script>
   <script src="{{"js/jP.js" | prepend: site.baseurl}}"></script>
@@ -26,7 +28,7 @@
           /* initiate the plugin */
           $("div.pag-holder").jPages({
               containerID  : "pag-itemContainer",
-              perPage      : 4,  /* num of items per page */
+              perPage      : 10,  /* num of items per page */
               startPage    : 1,
               startRange   : 1,
               midRange     : 3,
