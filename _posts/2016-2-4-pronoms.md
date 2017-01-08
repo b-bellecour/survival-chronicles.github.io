@@ -32,6 +32,7 @@ tags :
 
 ## PRONOMS PERSONNELS <ruby><rb>人称代名詞</rb><rt>にんしょうだいめいし</rt></ruby>
 
+<div class="tablo">
 <table border="0" width="686" cellspacing="0" cellpadding="1" style="height: 370px;">
 
 <tbody>
@@ -165,6 +166,7 @@ tags :
 </tbody>
 
 </table>
+</div>
 <br>
 <span>Le tableau que vous venez de lire liste les formes courantes, cependant, la première et deuxième personne du singulier peuvent être prononcées et écrites de plusieurs manières. En fonction du ton employé, de la personnalité et du contexte:</span>  
 

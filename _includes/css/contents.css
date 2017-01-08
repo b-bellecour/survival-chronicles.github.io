@@ -4623,11 +4623,32 @@ dd.project-people {
 }
 .article-title {
   text-align: center;
-  margin: 40px 0 100px 0;
+  margin: 5px 0 100px 0;
 }
 .article .ibox-content {
-  padding: 40px;
+  padding: 5px;
 }
+
+.tablo {
+  overflow: auto;
+}
+
+.embed-container {
+    position: relative; 
+    padding-bottom: 100%; 
+    height: 0; 
+    overflow:  hidden;
+} 
+.embed-container iframe, 
+.embed-container object, 
+.embed-container embed {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
+}
+
 /* ISSUE TRACKER */
 .issue-tracker .btn-link {
   color: #d44950;

@@ -251,9 +251,10 @@ Notez que quand elles sont associées leur taille calligraphique diminue, compa
 <br>
 <h1>Les Katakana</h1>
 Ou le deuxième syllabaire à se bâfrer. Phonétiquement parlant les katakana 片仮名  sont la copie conforme des Hiragana, ils s'écrivent cependant différemment. Cela sous entend que les parties prononciation et syllabes étendues écrites plus haut s'appliquent également à ce syllabaire. Pour vulgariser, si vous savez prononcer vos Hiragana vous savez automatiquement prononcer vos Katakana.<br /><br />
-
-<p><iframe src="https://vine.co/v/OXLOWxdD7Uj/embed/simple" width="600" height="600" frameborder="0"></iframe></p>
-
+<div class='embed-container'>
+<p><iframe src="https://vine.co/v/OXLOWxdD7Uj/embed/simple" width="100%" frameborder="0"></iframe></p>
+</div>
+<br>
 Oui, à première vue ça peut paraître saugrenu d'avoir deux écritures phonétiques différentes comportant les mêmes sons. Les katakana sont utilisés dans le système d'écriture japonais pour transcrire les mots étrangers, les noms propres étrangers, les noms scientifiques des plantes et animaux, et les onomatopées japonaises. Ils peuvent également servir à mettre en valeur dans un texte des mots qui s'écrivent normalement en kanjis ou en hiraganas.<br /><br />
 <table border="0" cellspacing="0" cellpadding="1">
 <tbody>
@@ -346,6 +347,7 @@ Oui, à première vue ça peut paraître saugrenu d'avoir deux écritures phon
 </tbody>
 </table><br />
 Vu qu'on aime bien les exceptions, autant pas se priver et parler directement des spécificités de ce syllabaire. Le tableau plus bas vous présente une série de sons ayant pour but de retranscrire au mieux certains mots étrangers. Avec 5 voyelles dans son panel on fait comme on peut.<br /><br />
+<div class="tablo">
 <table style="height: 329px;" border="0" width="449" cellspacing="0" cellpadding="1">
 <tbody>
 <tr>
@@ -446,6 +448,7 @@ Vu qu'on aime bien les exceptions, autant pas se priver et parler directement d
 </tr>
 </tbody>
 </table><br />
+</div>
 Etudier les deux syllabaires en même temps complexifie la tache, apprenez-les séparément. Au bout d'un mois vous devriez avoir suffisamment de connaissance pour passer à la suite.  
 <br>
 <h1>Caractères spéciaux</h1>

@@ -222,7 +222,7 @@ tags:
 </table>
 <br>
 ## Conjugaisons négatives et passées
-
+<div class="tablo">
 <table>
 
 
@@ -280,7 +280,9 @@ tags:
 
 <td>ku arimasen deshita remplace い.
 </td></tr></table>  
+
 <br>
+</div>
 Ce tableau est universel, les terminaisons de couleur rose s'appliquent à tous. C'est la première notion de conjugaison, cinq terminaisons, que je me permets de vous rappeler :  
 
 **Forme affirmative au passé :** <span>い est remplacé par かった -</span> <ruby><rb>近</rb><rt>ちか</rt></ruby><span style="color: #da314b;">い</span> <span></span> <span style="font-size: 18pt;">→</span><span> 近</span><span style="color: #da314b;">かった</span> <span>(Proche → C’était proche)</span>  
@@ -346,7 +348,7 @@ Ce tableau est universel, les terminaisons de couleur rose s'appliquent à tous
 <span>賑やかな</span> _nigiyaka-na_<span> : animé</span>  
 <br> 
 ## Conjugaisons négatives et passées
-
+<div class="tablo">
 <table>
 
 
@@ -407,6 +409,7 @@ Ce tableau est universel, les terminaisons de couleur rose s'appliquent à tous
 </tr>
 </table>
 <br>
+</div>
 <span>C'est effectivement le verbe</span> _être_ <span>qui est conjugué ici. Si on se réfère au précédent tableau de conjugaison, on peut constater que la mécanique reste similaire à peu de chose près  :</span>  
 
 **Forme affirmative au présent :** <span>な est remplacé par です -</span> <ruby><rb>静</rb><rt>しず</rt></ruby><span>か</span><span style="color: #da314b;">な</span> <span style="font-size: 18pt;">→</span> <span>静か</span><span style="color: #993366;"><span style="color: #da314b;">です</span> </span><span>(Apaisant → C’est calme)</span>  
