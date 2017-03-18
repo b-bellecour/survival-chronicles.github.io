@@ -174,87 +174,14 @@ tags :
 <span>Appeleés plus communément particules de fin de phrase.</span>  
 <br>
 
-<table class="wikitable">
+<div class="tablo" markdown='1'>
 
-<tbody>
+| Particule | Nuance  | Exemple  | Traduction  |
+| <center>よ | Forte emphase. mixte. | 私の犬です<span style="color: #da314b;">よ</span>。 | C'est mon chien, <span style="color: #da314b;">à moi</span>. |
+| <center>ね | accord&nbsp;avec&nbsp;l'interlocuteur,&nbsp;mixte. | 貴方の猫です<span style="color: #da314b;">ね</span> 。 | C'est&nbsp;ton&nbsp;chat,&nbsp;<span style="color:#da314b;">n'est&nbsp;ce&nbsp;pas</span>&nbsp;? |
+| <center>さ | exclamation,&nbsp;familier,&nbsp;masculin.&nbsp;| そう<span style="color: #da314b;">さ</span>！ | Absolument <span style="color: #da314b;">!</span> |
+| <center>わ | exclamation atténuée, féminin. | 分かりません<span style="color: #da314b;">わ</span>! | Je ne sais pas <span style="color: #da314b;">!</span> |
+| <center>な | discours intérieur, mixte. | 熱い<span style="color: #da314b;">な</span>。 | <span style="color: #da314b;">Tiens</span>, il fait chaud. |
+| <center>の | emphatique, féminin, enfant |  めちゃ美味しい<span style="color: #da314b;">の</span>。 | C'est ultra bon <span style="color: #da314b;">!</span> |
 
-<tr>
-
-<th style="text-align: left;"> Nuance&nbsp; </th>
-
-<th style="text-align: left;"> Exemple&nbsp; </th>
-
-<th style="text-align: left;"> Traduction&nbsp; </th>
-
-</tr>
-
-<tr>
-
-
-<td>よ -> Forte emphase. mixte.</td>
-
-<td>私の犬です<span style="color: #da314b;">よ</span>。</td>
-
-<td>C'est mon chien, <span style="color: #da314b;">à moi</span>.</td>
-
-</tr>
-
-<tr>
-
-
-<td> ね -> accord avec l'interlocuteur, mixte.</td>
-
-<td>貴方の猫です<span style="color: #da314b;">ね</span> 。</td>
-
-<td>C'est ton chat, <span style="color: #da314b;">n'est-ce pas</span> ?</td>
-
-</tr>
-
-<tr>
-
-
-<td>さ -> exclamation, familier, masculin.</td>
-
-<td>そう<span style="color: #da314b;">さ</span>！</td>
-
-<td>Absolument <span style="color: #da314b;">!</span></td>
-
-</tr>
-
-<tr>
-
-
-
-<td>わ -> exclamation atténuée, féminin.</td>
-
-<td>分かりません<span style="color: #da314b;">わ</span>!</td>
-
-<td>Je ne sais pas <span style="color: #da314b;">!</span></td>
-
-</tr>
-
-<tr>
-
-
-<td>な -> discours intérieur, mixte.</td>
-
-<td>熱い<span style="color: #da314b;">な</span>。</td>
-
-<td><span style="color: #da314b;">Tiens</span>, il fait chaud.</td>
-
-</tr>
-
-<tr>
-
-
-<td>の -> emphatique, féminin, enfant</td>
-
-<td> めちゃ美味しい<span style="color: #da314b;">の</span>。</td>
-
-<td>C'est ultra bon <span style="color: #da314b;">!</span></td>
-
-</tr>
-
-</tbody>
-
-</table>
+</div>

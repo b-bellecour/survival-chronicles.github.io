@@ -15,274 +15,55 @@ tags:
 
 
 
-<span>Les adjectifs japonais se divisent en deux catégories, les adjectifs en</span> <span style="color: #da314b;">I</span> <span>et les adjectifs en</span> <span style="color: #da314b;">NA</span><span>.</span> <span>les adj en</span> _i_ <span>sont ceux qui au présent, et à l'affirmatif, se terminent par</span> あい; いい; うい <span>ou</span> おい<span>, comme </span><ruby><rb>赤</rb><rt>あか</rt></ruby><span>い (rouge) ou  </span><ruby><rb>黒</rb><rt>くろ</rt></ruby><span>い (noir). Les adj en</span> _na_<span> sont ceux qui ne se terminent</span> _PAS_ <span>par l'une de ses quatre terminaisons. Attention piège: les adjectifs qui se finissent en えい, ne sont pas des adjectifs dits en</span> <span style="color: #da314b;">i</span> <span>mais en</span> <span style="color: #da314b;">na</span><span>, comme きれい (joli, ) ou</span> <ruby><rb>有名</rb><rt>ゆうめい</rt></ruby><span>(célèbre).</span>
+<span>Les adjectifs japonais se divisent en deux catégories: les adjectifs en</span> <span style="color: #da314b;">I</span> <span>et les adjectifs en</span> <span style="color: #da314b;">NA</span>.
+* <span>les adj en</span> _i_ <span>sont ceux qui au présent, et à l'affirmatif, se terminent par</span> あい; いい; うい <span>ou</span> おい<span>, comme </span><ruby><rb>赤</rb><rt>あか</rt></ruby><span>い (rouge) ou  </span><ruby><rb>黒</rb><rt>くろ</rt></ruby><span>い (noir). 
+
+* Les adj en _na_<span> sont ceux qui ne se terminent</span> _PAS_ <span>par l'une de ses quatre terminaisons. 
+
+**Attention** : les adjectifs qui se finissent en えい, ne sont pas des adjectifs dits en <span style="color: #da314b;">i</span> <span>mais en</span> <span style="color: #da314b;">na</span><span>, comme きれい (joli, ) ou</span> <ruby><rb>有名</rb><rt>ゆうめい</rt></ruby><span>(célèbre).</span>
 
 # Adjectifs en i - <span>い<ruby><rb>形容詞</rb><rt><span>けいようし</span></rt></ruby></span>
 
 <span>Commençons par les adjectifs du premier groupe, ceux en</span> <span style="color: #da314b;">i</span><span>. Ils forment un énoncé minimal suffisant, c'est-à-dire qu'à eux seuls, ils suffisent à former une phrase complète. Voici une première liste non-exhaustive des adjectifs en i, suivi de leurs antonymes.</span>
 
-<table border="0">
+<div class="tablo" markdown='1'>
+
+| Adjectif | Traduction | Antonyme | Traduction |
+| 大きい&nbsp;(ookii) | grand | 小さい&nbsp;(chiisai) | petit |
+| いい/良い&nbsp;(ii/yoi) | bon, bien |  悪い&nbsp;(warui) | mal, méchant |
+| 美味しい&nbsp;(oishii) | bon, délicieux |  まずい&nbsp;(mazui) | mauvais |
+| 暑い&nbsp;(atsui) | chaud |  寒い&nbsp;(samui) | froid |
+| 温かい&nbsp;(atatakai) | chaud&nbsp;(contact) |  冷たい&nbsp;(tsumetai) | froid&nbsp;(contact) |
+| 多い&nbsp;(ooi) | nombreux |  少ない&nbsp;(sukunai) | peu nombreux |
+| 易しい&nbsp;(yasashii) | facile |  難しい&nbsp;(muzukashii) | difficile |
+| 太い&nbsp;(futoi) | gros |  薄い&nbsp;(usui) | mince |
+| 広い&nbsp;(hiroi) | spacieux |  狭い&nbsp;(semai) | étroit |
+| 高い&nbsp;(takai) | haut, cher |  低い&nbsp;(hikui) | bas |
+| 長い&nbsp;(nagai) | long |  短い&nbsp;(mijikai) | court |
+| 新しい&nbsp;(atarashii) | nouveau, récent |  古い&nbsp;(furui) | vieux |
+| 早い&nbsp;(hayai) | rapide, tôt |  遅い&nbsp;(osoi) | lent, tard |
+| 重い&nbsp;(omoi) | lourd |  軽い&nbsp;(karui) | léger |
+| 遠い&nbsp;(tooi) | loin |  近い&nbsp;(chikai) | proche |
+| 甘い&nbsp;(amai) | sucré |  辛い&nbsp;(karai) | épicé |
 
 
-
-<tr>
-
-<td style="text-align: left;">大きい (ookii)</td>
-
-<td style="text-align: left;">grand</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt;"><span style="color: #993366;">≠</span> </span>小さい (chiisai)</td>
-
-<td style="text-align: left;">petit</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left;">いい/良い (ii/yoi)</td>
-
-<td style="text-align: left;">bon, bien</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt; color: #993366;">≠</span> 悪い (warui)</td>
-
-<td style="text-align: left;">mal, méchant</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left;">美味しい (oishii)</td>
-
-<td style="text-align: left;">bon, délicieux</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt; color: #993366;">≠</span> まずい (mazui)</td>
-
-<td style="text-align: left;">mauvais</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left;">暑い (atsui)</td>
-
-<td style="text-align: left;">chaud</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt; color: #993366;">≠</span> 寒い (samui)</td>
-
-<td style="text-align: left;">froid</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left;">温かい (atatakai)</td>
-
-<td style="text-align: left;">chaud (contact)</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt; color: #993366;">≠</span> 冷たい (tsumetai)</td>
-
-<td style="text-align: left;">froid (contact)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left;">多い (ooi)</td>
-
-<td style="text-align: left;">nombreux</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt; color: #993366;">≠</span> 少ない (sukunai)</td>
-
-<td style="text-align: left;">peu nombreux</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left;">易しい (yasashii)</td>
-
-<td style="text-align: left;">facile</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt; color: #993366;">≠</span> 難しい (muzukashii)</td>
-
-<td style="text-align: left;">difficile</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left;">太い (futoi)</td>
-
-<td style="text-align: left;">gros</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt; color: #993366;">≠</span> 薄い (usui)</td>
-
-<td style="text-align: left;">mince</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left;">広い (hiroi)</td>
-
-<td style="text-align: left;">spacieux</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt; color: #993366;">≠</span> 狭い (semai)</td>
-
-<td style="text-align: left;">étroit</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left;">高い (takai)</td>
-
-<td style="text-align: left;">haut, cher</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt; color: #993366;">≠</span> 低い (hikui)</td>
-
-<td style="text-align: left;">bas</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left;">長い (nagai)</td>
-
-<td style="text-align: left;">long</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt; color: #993366;">≠</span> 短い (mijikai)</td>
-
-<td style="text-align: left;">court</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left;">新しい (atarashii)</td>
-
-<td style="text-align: left;">nouveau, récent</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt; color: #993366;">≠</span> 古い (furui)</td>
-
-<td style="text-align: left;">vieux</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left;">早い (hayai)</td>
-
-<td style="text-align: left;">rapide, tôt</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt; color: #993366;">≠</span> 遅い (osoi)</td>
-
-<td style="text-align: left;">lent, tard</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left;">重い (omoi)</td>
-
-<td style="text-align: left;">lourd</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt; color: #993366;">≠</span> 軽い (karui)</td>
-
-<td style="text-align: left;">léger</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left;">遠い (tooi)</td>
-
-<td style="text-align: left;">loin</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt; color: #993366;">≠</span> 近い (chikai)</td>
-
-<td style="text-align: left;">proche</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left;">甘い (amai)</td>
-
-<td style="text-align: left;">sucré</td>
-
-<td style="text-align: left;"><span style="font-size: 18pt; color: #993366;">≠</span> 辛い (karai)</td>
-
-<td style="text-align: left;">épicé</td>  
-
-</tr>
-
-
-
-</table>
-<br>
-## Conjugaisons négatives et passées
-<div class="tablo">
-<table>
-
-
-<tr>
-
-<td><span style="color: #da314b;">Forme</span></td>
-
-<td><span style="color: #da314b;">présent</span></td>
-
-<td><span style="color: #da314b;">contraction</span></td>
-
-<td><span style="color: #da314b;">passé</span></td>
-
-<td><span style="color: #da314b;">contraction</span></td>
-
-</tr>
-
-<tr>
-
-<td>affirmative</td>
-
-<td>赤<span style="color: #da314b;">い</span></td>
-
-<td>forme neutre</td>
-
-<td>赤<span style="color: #da314b;">かった</span></td>
-
-<td>katta remplace い.</td>
-
-</tr>
-
-<tr>
-
-<td>négative</td>
-
-<td>赤<span style="color: #da314b;">くないです</span></td>
-
-<td>kunai desu remplace い.</td>
-
-<td>赤<span style="color: #da314b;"><span style="color: #da314b;"><span style="color: #da314b;">くなかったで</span></span></span><span style="color: #da314b;"><span style="color: #da314b;"><span>す</span></span></span></td>
-
-<td>ku nakatta desu remplace い.</td>
-
-</tr>
-
-<tr>
-
-<td>négative polie</td>
-
-<td>赤<span style="color: #da314b;">くありません</span></td>
-
-<td>ku arimasen remplace い.</td>
-
-<td>赤<span style="color: #da314b;">くありませんでした</span></td>
-
-<td>ku arimasen deshita remplace い.
-</td></tr></table>  
-
-<br>
 </div>
+<br>
+
+
+## Conjugaisons négatives et passées
+
+<div class="tablo" markdown='1'>
+
+
+| Forme | présent | contraction présent | passé | contraction passé |
+| affirmative | 赤<span style="color: #da314b;">い</span> | forme neutre | 赤<span style="color: #da314b;">かった </span> | katta remplace い. |
+| négative | 赤<span style="color: #da314b;">くないです</span> | kunai desu remplace&nbsp;い. | 赤<span style="color: #da314b;"><span style="color: #da314b;"><span style="color: #da314b;">くなかったで</span></span></span><span style="color: #da314b;"><span style="color: #da314b;"><span>す</span></span></span> | ku nakatta desu remplace&nbsp;い. |
+| négative&nbsp;polie | 赤<span style="color: #da314b;">くありません </span> | ku arimasen remplace&nbsp;い. | 赤<span style="color: #da314b;">くありませんでした </span> | ku&nbsp;arimasen&nbsp;deshita&nbsp;remplace&nbsp;い. |
+
+</div>
+<br>
+
 Ce tableau est universel, les terminaisons de couleur rose s'appliquent à tous. C'est la première notion de conjugaison, cinq terminaisons, que je me permets de vous rappeler :  
 
 **Forme affirmative au passé :** <span>い est remplacé par かった -</span> <ruby><rb>近</rb><rt>ちか</rt></ruby><span style="color: #da314b;">い</span> <span></span> <span style="font-size: 18pt;">→</span><span> 近</span><span style="color: #da314b;">かった</span> <span>(Proche → C’était proche)</span>  
@@ -348,68 +129,17 @@ Ce tableau est universel, les terminaisons de couleur rose s'appliquent à tous
 <span>賑やかな</span> _nigiyaka-na_<span> : animé</span>  
 <br> 
 ## Conjugaisons négatives et passées
-<div class="tablo">
-<table>
 
+<div class="tablo" markdown='1'>
 
-<tr>
+| Forme | présent | contraction présent | passé | contraction passé |
+| affirmative | 静か<span style="color: #da314b;">です</span> | desu remplace na | 静か<span style="color: #da314b;">でした</span> | deshita remplace na. |
+| négative | 静か<span style="color: #da314b;">ではないです</span> | de&nbsp;ha&nbsp;nai&nbsp;desu remplace&nbsp;na | 静か<span style="color: #da314b;">ではなかったです</span> | de ha na katta remplace na. |
+| négative&nbsp;polie  | 静か<span style="color: #da314b;">ではありません </span> | de&nbsp;ha arimasen&nbsp;remplace&nbsp;na  | 静か<span style="color: #da314b;">ではありませんでした </span> | de&nbsp;ha arimasen&nbsp;deshita&nbsp;remplace&nbsp;na |
 
-<td><span style="color: #da314b;">Forme</span></td>
-
-<td><span style="color: #da314b;">présent</span></td>
-
-<td><span style="color: #da314b;">contraction</span></td>
-
-<td><span style="color: #da314b;">passé</span></td>
-
-<td><span style="color: #da314b;">contraction</span></td>
-
-</tr>
-
-<tr>
-
-<td>affirmative</td>
-
-<td>静か<span style="color: #da314b;">です</span></td>
-
-<td>desu remplace na</td>
-
-<td>静か<span style="color: #da314b;">でした</span></td>
-
-<td>deshita remplace na.</td>
-
-</tr>
-
-<tr>
-
-<td>négative</td>
-
-<td>静か<span style="color: #da314b;">ではないです</span></td>
-
-<td>de ha nai desu remplace na</td>
-
-<td>静か<span style="color: #da314b;">ではなかったです</span></td>
-
-<td>de ha na katta remplace na.</td>
-
-</tr>
-
-<tr>
-
-<td>négative polie&nbsp;</td>
-
-<td>静か<span style="color: #da314b;">ではありません&nbsp;</span></td>
-
-<td>de ha arimasen remplace na&nbsp;</td>
-
-<td>静か<span style="color: #da314b;">ではありませんでした&nbsp;</span></td>
-
-<td>de ha arimasen deshita remplace na</td>
-
-</tr>
-</table>
-<br>
 </div>
+<br>
+
 <span>C'est effectivement le verbe</span> _être_ <span>qui est conjugué ici. Si on se réfère au précédent tableau de conjugaison, on peut constater que la mécanique reste similaire à peu de chose près  :</span>  
 
 **Forme affirmative au présent :** <span>な est remplacé par です -</span> <ruby><rb>静</rb><rt>しず</rt></ruby><span>か</span><span style="color: #da314b;">な</span> <span style="font-size: 18pt;">→</span> <span>静か</span><span style="color: #993366;"><span style="color: #da314b;">です</span> </span><span>(Apaisant → C’est calme)</span>  

@@ -17,96 +17,24 @@ tags :
 
 Plusieurs raisons peuvent vous pousser à apprendre le japonais. Peu importe les motifs de votre <del>soudaine</del> motivation pour cette langue, il vous faudra plusieurs années pour être à l'aise. Nous parlons ici d'une course de fond, pas d'un sprint à la wall street english. Il est probable que quelques médias nippons aient déjà laissé une empreinte, vous connaissez une vingtaine de mots, et c'est bien. Le fait est que ça ne nous servira pas à grand chose là où on va.  
 <br>
-<h1>First things first : Les KANA 仮名</h1>
+<h2>First things first : Les KANA 仮名</h2>
 Il s'agit d'apprendre deux fois 48 caractères (<a title="ゐ" href="https://fr.wikipedia.org/wiki/%E3%82%90">ゐ</a>, <a title="ゐ" href="https://fr.wikipedia.org/wiki/%E3%82%90">ヰ</a>, <a title="ゑ" href="https://fr.wikipedia.org/wiki/%E3%82%91">ゑ</a>, <a title="ゑ" href="https://fr.wikipedia.org/wiki/%E3%82%91">ヱ</a>, n'étant plus utilisé, techniquement ça fait 2*46 = 92 ). Ils seront votre fer de lance, les connaitre vous accordera une efficacité redoutable pour la suite. Le but du jeu est de pouvoir lire des kanji flanqués de furigana, définir le sens d'une phrase, retranscrire par écrit les sons que vous entendez, déduire des kanji... Pour à terme éliminer l'alphabet latin de vos exercices, et par exemple pouvoir attaquer les ouvrages Minna no nihongo. Le premier syllabaire japonais à étudier,  les Hiragana 平仮名, permettent de transcrire la langue japonaise sans ambiguïté, au contraire des kanjis. En effet, chaque hiragana représente une syllabe (techniquement, une more) qui peut être une voyelle seule (comme あ = a) ou une consonne suivie d'une voyelle (comme か = ka) ; il y a également le n syllabique (ん), dont la prononciation varie en fonction de la syllabe qui le suit.<br /><br />
-<table border="0" cellspacing="0" cellpadding="1">
-<tbody>
-<tr>
-<th colspan="12"><a title="Hiragana" align-element="center" href="https://fr.wikipedia.org/wiki/Hiragana">Hiragana</a></th>
-</tr>
-<tr align="center">
-<td width="8%"></td>
-<td width="8%"></td>
-<td width="8%">K</td>
-<td width="8%">S</td>
-<td width="8%">T</td>
-<td width="8%">N</td>
-<td width="8%">H</td>
-<td width="8%">M</td>
-<td width="8%">Y</td>
-<td width="8%">R</td>
-<td width="8%">W</td>
-<td width="8%"></td>
-</tr>
-<tr align="center">
-<td>A</td>
-<td><a title="あ" href="https://fr.wikipedia.org/wiki/%E3%81%82">あ</a></td>
-<td><a title="か" href="https://fr.wikipedia.org/wiki/%E3%81%8B">か</a></td>
-<td><a title="さ" href="https://fr.wikipedia.org/wiki/%E3%81%95">さ</a></td>
-<td><a title="た" href="https://fr.wikipedia.org/wiki/%E3%81%9F">た</a></td>
-<td><a title="な" href="https://fr.wikipedia.org/wiki/%E3%81%AA">な</a></td>
-<td><a title="は" href="https://fr.wikipedia.org/wiki/%E3%81%AF">は</a></td>
-<td><a title="ま" href="https://fr.wikipedia.org/wiki/%E3%81%BE">ま</a></td>
-<td><a title="や" href="https://fr.wikipedia.org/wiki/%E3%82%84">や</a></td>
-<td><a title="ら" href="https://fr.wikipedia.org/wiki/%E3%82%89">ら</a></td>
-<td><a title="わ" href="https://fr.wikipedia.org/wiki/%E3%82%8F">わ</a></td>
-<td></td>
-</tr>
-<tr align="center">
-<td>I</td>
-<td><a title="い" href="https://fr.wikipedia.org/wiki/%E3%81%84">い</a></td>
-<td><a title="き" href="https://fr.wikipedia.org/wiki/%E3%81%8D">き</a></td>
-<td><a title="し" href="https://fr.wikipedia.org/wiki/%E3%81%97">し</a></td>
-<td><a title="ち" href="https://fr.wikipedia.org/wiki/%E3%81%A1">ち</a></td>
-<td><a title="に" href="https://fr.wikipedia.org/wiki/%E3%81%AB">に</a></td>
-<td><a title="ひ" href="https://fr.wikipedia.org/wiki/%E3%81%B2">ひ</a></td>
-<td><a title="み" href="https://fr.wikipedia.org/wiki/%E3%81%BF">み</a></td>
-<td></td>
-<td><a title="り" href="https://fr.wikipedia.org/wiki/%E3%82%8A">り</a></td>
-<td>(<a title="ゐ" href="https://fr.wikipedia.org/wiki/%E3%82%90">ゐ</a>)</td>
-<td><a class="mw-redirect" title="ん" href="https://en.wikipedia.org/wiki/%E3%82%93">ん</a></td>
-</tr>
-<tr align="center">
-<td>U</td>
-<td><a title="う" href="https://fr.wikipedia.org/wiki/%E3%81%86">う</a></td>
-<td><a title="く" href="https://fr.wikipedia.org/wiki/%E3%81%8F">く</a></td>
-<td><a title="す" href="https://fr.wikipedia.org/wiki/%E3%81%99">す</a></td>
-<td><a title="つ" href="https://fr.wikipedia.org/wiki/%E3%81%A4">つ</a></td>
-<td><a title="ぬ" href="https://fr.wikipedia.org/wiki/%E3%81%AC">ぬ</a></td>
-<td><a title="ふ" href="https://fr.wikipedia.org/wiki/%E3%81%B5">ふ</a></td>
-<td><a title="む" href="https://fr.wikipedia.org/wiki/%E3%82%80">む</a></td>
-<td><a title="ゆ" href="https://fr.wikipedia.org/wiki/%E3%82%86">ゆ</a></td>
-<td><a title="る" href="https://fr.wikipedia.org/wiki/%E3%82%8B">る</a></td>
-<td></td>
-</tr>
-<tr align="center">
-<td>E</td>
-<td><a title="え" href="https://fr.wikipedia.org/wiki/%E3%81%88">え</a></td>
-<td><a title="け" href="https://fr.wikipedia.org/wiki/%E3%81%91">け</a></td>
-<td><a title="せ" href="https://fr.wikipedia.org/wiki/%E3%81%9B">せ</a></td>
-<td><a title="て" href="https://fr.wikipedia.org/wiki/%E3%81%A6">て</a></td>
-<td><a title="ね" href="https://fr.wikipedia.org/wiki/%E3%81%AD">ね</a></td>
-<td><a title="へ" href="https://fr.wikipedia.org/wiki/%E3%81%B8">へ</a></td>
-<td><a title="め" href="https://fr.wikipedia.org/wiki/%E3%82%81">め</a></td>
-<td></td>
-<td><a title="れ" href="https://fr.wikipedia.org/wiki/%E3%82%8C">れ</a></td>
-<td>(<a title="ゑ" href="https://fr.wikipedia.org/wiki/%E3%82%91">ゑ</a>)</td>
-</tr>
-<tr align="center">
-<td>O</td>
-<td><a title="お" href="https://fr.wikipedia.org/wiki/%E3%81%8A">お</a></td>
-<td><a title="こ" href="https://fr.wikipedia.org/wiki/%E3%81%93">こ</a></td>
-<td><a title="そ" href="https://fr.wikipedia.org/wiki/%E3%81%9D">そ</a></td>
-<td><a title="と" href="https://fr.wikipedia.org/wiki/%E3%81%A8">と</a></td>
-<td><a title="の" href="https://fr.wikipedia.org/wiki/%E3%81%AE">の</a></td>
-<td><a title="ほ" href="https://fr.wikipedia.org/wiki/%E3%81%BB">ほ</a></td>
-<td><a title="も" href="https://fr.wikipedia.org/wiki/%E3%82%82">も</a></td>
-<td><a title="よ" href="https://fr.wikipedia.org/wiki/%E3%82%88">よ</a></td>
-<td><a title="ろ" href="https://fr.wikipedia.org/wiki/%E3%82%8D">ろ</a></td>
-<td><a title="を" href="https://fr.wikipedia.org/wiki/%E3%82%92">を</a></td>
-</tr>
-</tbody>
-</table><br />
+
+<h1>Les Hiragana</h1>
+<br>
+<div class="tablo" markdown='1'>
+
+
+| | | K | S | T | N | H | M | Y | R | W |
+| A | [あ](https://fr.wikipedia.org/wiki/%E3%81%82 "あ") | [か](https://fr.wikipedia.org/wiki/%E3%81%8B "か") | [さ](https://fr.wikipedia.org/wiki/%E3%81%95 "さ") | [た](https://fr.wikipedia.org/wiki/%E3%81%9F "た") | [な](https://fr.wikipedia.org/wiki/%E3%81%AA "な") | [は](https://fr.wikipedia.org/wiki/%E3%81%AF "は") | [ま](https://fr.wikipedia.org/wiki/%E3%81%BE "ま") | [や](https://fr.wikipedia.org/wiki/%E3%82%84 "や") | [ら](https://fr.wikipedia.org/wiki/%E3%82%89 "ら") | [わ](https://fr.wikipedia.org/wiki/%E3%82%8F "わ") |
+| I | [い](https://fr.wikipedia.org/wiki/%E3%81%84 "い") | [き](https://fr.wikipedia.org/wiki/%E3%81%8D "き") | [し](https://fr.wikipedia.org/wiki/%E3%81%97 "し") | [ち](https://fr.wikipedia.org/wiki/%E3%81%A1 "ち") | [に](https://fr.wikipedia.org/wiki/%E3%81%AB "に") | [ひ](https://fr.wikipedia.org/wiki/%E3%81%B2 "ひ") | [み](https://fr.wikipedia.org/wiki/%E3%81%BF "み") | [り](https://fr.wikipedia.org/wiki/%E3%82%8A "り") | [ゐ](https://fr.wikipedia.org/wiki/%E3%82%90 "ゐ") | [ん](https://en.wikipedia.org/wiki/%E3%82%93 "ん") |
+| U | [う](https://fr.wikipedia.org/wiki/%E3%81%86 "う") | [く](https://fr.wikipedia.org/wiki/%E3%81%8F "く") | [す](https://fr.wikipedia.org/wiki/%E3%81%99 "す") | [つ](https://fr.wikipedia.org/wiki/%E3%81%A4 "つ") | [ぬ](https://fr.wikipedia.org/wiki/%E3%81%AC "ぬ") | [ふ](https://fr.wikipedia.org/wiki/%E3%81%B5 "ふ") | [む](https://fr.wikipedia.org/wiki/%E3%82%80 "む") | [ゆ](https://fr.wikipedia.org/wiki/%E3%82%86 "ゆ") | [る](https://fr.wikipedia.org/wiki/%E3%82%8B "る") |
+| E | [え](https://fr.wikipedia.org/wiki/%E3%81%88 "え") | [け](https://fr.wikipedia.org/wiki/%E3%81%91 "け") | [せ](https://fr.wikipedia.org/wiki/%E3%81%9B "せ") | [て](https://fr.wikipedia.org/wiki/%E3%81%A6 "て") | [ね](https://fr.wikipedia.org/wiki/%E3%81%AD "ね") | [へ](https://fr.wikipedia.org/wiki/%E3%81%B8 "へ") | [め](https://fr.wikipedia.org/wiki/%E3%82%81 "め") | [れ](https://fr.wikipedia.org/wiki/%E3%82%8C "れ") | [ゑ](https://fr.wikipedia.org/wiki/%E3%82%91 "ゑ") |
+| O | [お](https://fr.wikipedia.org/wiki/%E3%81%8A "お") | [こ](https://fr.wikipedia.org/wiki/%E3%81%93 "こ") | [そ](https://fr.wikipedia.org/wiki/%E3%81%9D "そ") | [と](https://fr.wikipedia.org/wiki/%E3%81%A8 "と") | [の](https://fr.wikipedia.org/wiki/%E3%81%AE "の") | [ほ](https://fr.wikipedia.org/wiki/%E3%81%BB "ほ") | [も](https://fr.wikipedia.org/wiki/%E3%82%82 "も") | [よ](https://fr.wikipedia.org/wiki/%E3%82%88 "よ") | [ろ](https://fr.wikipedia.org/wiki/%E3%82%8D "ろ") | [を](https://fr.wikipedia.org/wiki/%E3%82%92 "を") |
+
+</div>
+
+<br />
 Ce syllabaire vous permet de prononcer l'intégralité des mots de la langue. TOUS, sans exception. Pour l'apprendre, plusieurs méthodes s'offrent à vous. Plutôt qu'une application sur votre smartphone je vous conseille un papier et un stylo. Pour ma part je les ai écrits 30 fois par jour, chacun, en prononçant l'hiragana à voix haute à chaque écriture, sur une période de 2 semaines.  
 <br>
 <h2>Prononciation</h2>
@@ -114,17 +42,12 @@ Ce syllabaire vous permet de prononcer l'intégralité des mots de la langue. T
 
 <span class="b">A</span>, <span class="b">I, U, E</span> et <span class="b">O</span> se prononcent respectivement comme indiqué ci-dessous, vous trouverez le son phonétique international entre crochet: <br />
 * あ [ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">a</a> ] - </span>A de Anatole.
-
 * い [ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">i</a> ] - I de Irène.</span>
-
 * う [ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɯ</a> ] est souvent prononcé comme [u] - Ou de genOU.</span>  
-
 * え [ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">e</a> ] </span>É de Émile.
-
 * お [ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">o</a> ] </span>O de Oscar.
 
 Elles peuvent être transformées en voyelles longues, et sont généralement écrites avec un <span style="font-size: 12pt;">ー</span>  (chouonpu, plus communément appelé nobasu)  pour indiquer l’allongement, comme dans コーラ <i>kōra</i> (cola).  
-
 <br>
 9 consonnes basiques (<span style="color: #da314b;">K S T N H M Y R W</span>) , 7 consonnes étendues ( <span style="color: #da314b;">G Z D B P J DJ</span>). A noter que pour la suite, je prendrai pour exemple la voyelle "A", que j’associerai aux diverses consonnes. Sauf exception, vous pouvez associer <span style="color: #da314b;">A I U E</span> et <span style="color: #da314b;">O</span> à chacune d'entre elles. Pour K cela donne KA KI KU KE KO, か き  く  け こ . <br />
 
@@ -162,91 +85,26 @@ En rajoutant un <span style="color: #da314b;">Tenten</span> 「 ゛」ou un <sp
 ぱ [ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">pa</a> ] Le P de Patron</span></li></ul>
 
 Les syllabes ゃ, ゅ, ょ sont particulières, elles peuvent être considérées comme voyelles étendues et sont associées de cette manière:<br /><br />
-<table style="height: 278px;" border="0" width="281" cellspacing="0" cellpadding="1">
-<tbody>
-<tr>
-<th colspan="4"></th>
-</tr>
-<tr align="center">
-<td width="8%"></td>
-<td width="8%">YA</td>
-<td width="8%">YU</td>
-<td width="8%">YO</td>
-</tr>
-<tr align="center">
-<td>K</td>
-<td>きゃ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">kʲa</a></span></td>
-<td>きゅ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">kʲɯ</a></span></td>
-<td>きょ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">kʲo</a></span></td>
-</tr>
-<tr align="center">
-<td>S</td>
-<td>しゃ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɕa</a></span></td>
-<td>しゅ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɕɯ</a></span></td>
-<td>しょ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɕo</a></span></td>
-</tr>
-<tr align="center">
-<td>C</td>
-<td>ちゃ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">tɕa</a></span></td>
-<td>ちゅ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">tɕɯ</a></span></td>
-<td>ちょ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">tɕo</a></span></td>
-</tr>
-<tr align="center">
-<td>N</td>
-<td>にゃ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">nʲa</a></span></td>
-<td>にゅ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">nʲɯ</a></span></td>
-<td>にょ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">nʲo</a></span></td>
-</tr>
-<tr align="center">
-<td>H</td>
-<td>ひゃ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ça</a></span></td>
-<td>ひゅ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">çɯ</a></span></td>
-<td>ひょ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ço</a></span></td>
-</tr>
-<tr align="center">
-<td>M</td>
-<td>みゃ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">mʲa</a></span></td>
-<td>みゅ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">mʲɯ</a></span></td>
-<td>みょ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">mʲo</a></span></td>
-</tr>
-<tr align="center">
-<td>R</td>
-<td>りゃ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɾʲa</a></span></td>
-<td>りゅ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɾʲɯ</a></span></td>
-<td>りょ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɾʲo</a></span></td>
-</tr>
-<tr align="center">
-<td>G</td>
-<td>ぎゃ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɡʲa</a></span></td>
-<td>ぎゅ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɡʲɯ</a></span></td>
-<td>ぎょ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɡʲo</a></span></td>
-</tr>
-<tr align="center">
-<td>J</td>
-<td>じゃ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">dʑa</a></span></td>
-<td> じゅ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">dʑɯ</a></span></td>
-<td>じょ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">dʑo</a></span></td>
-</tr>
-<tr align="center">
-<td>DJ</td>
-<td>ぢゃ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">dʑa</a></span></td>
-<td>ぢゅ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">dʑɯ</a></span></td>
-<td>ぢょ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">dʑo</a></span></td>
-</tr>
-<tr align="center">
-<td>B</td>
-<td>びゃ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">bʲa</a></span></td>
-<td>びゅ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">bʲɯ</a></span></td>
-<td>びょ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">bʲo</a></span></td>
-</tr>
-<tr align="center">
-<td>P</td>
-<td>ぴゃ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">pʲa</a></span></td>
-<td>ぴゅ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">pʲɯ</a></span></td>
-<td>ぴょ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">pʲo</a></span></td>
-</tr>
-</tbody>
-</table><br />
+
+<div class="tablo" markdown='1'>
+
+| | <center>YA</center> | <center>YU</center> | <center>YO</center> |
+| K | きゃ <span class="API" title="Alphabet phonétique international">[kʲa](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | きゅ <span class="API" title="Alphabet phonétique international">[kʲɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | きょ <span class="API" title="Alphabet phonétique international">[kʲo](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| S | しゃ <span class="API" title="Alphabet phonétique international">[ɕa](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | しゅ <span class="API" title="Alphabet phonétique international">[ɕɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | しょ <span class="API" title="Alphabet phonétique international">[ɕo](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| C | ちゃ <span class="API" title="Alphabet phonétique international">[tɕa](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | ちゅ <span class="API" title="Alphabet phonétique international">[tɕɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | ちょ <span class="API" title="Alphabet phonétique international">[tɕo](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| N | にゃ <span class="API" title="Alphabet phonétique international">[nʲa](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | にゅ <span class="API" title="Alphabet phonétique international">[nʲɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | にょ <span class="API" title="Alphabet phonétique international">[nʲo](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| H | ひゃ <span class="API" title="Alphabet phonétique international">[ça](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | ひゅ <span class="API" title="Alphabet phonétique international">[çɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | ひょ <span class="API" title="Alphabet phonétique international">[ço](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| M | みゃ <span class="API" title="Alphabet phonétique international">[mʲa](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | みゅ <span class="API" title="Alphabet phonétique international">[mʲɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | みょ <span class="API" title="Alphabet phonétique international">[mʲo](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| R | りゃ <span class="API" title="Alphabet phonétique international">[ɾʲa](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | りゅ <span class="API" title="Alphabet phonétique international">[ɾʲɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | りょ <span class="API" title="Alphabet phonétique international">[ɾʲo](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| G | ぎゃ <span class="API" title="Alphabet phonétique international">[ɡʲa](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | ぎゅ <span class="API" title="Alphabet phonétique international">[ɡʲɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | ぎょ <span class="API" title="Alphabet phonétique international">[ɡʲo](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| J | じゃ <span class="API" title="Alphabet phonétique international">[dʑa](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |  じゅ <span class="API" title="Alphabet phonétique international">[dʑɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | じょ <span class="API" title="Alphabet phonétique international">[dʑo](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| DJ | ぢゃ <span class="API" title="Alphabet phonétique international">[dʑa](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | ぢゅ <span class="API" title="Alphabet phonétique international">[dʑɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | ぢょ <span class="API" title="Alphabet phonétique international">[dʑo](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| B | びゃ <span class="API" title="Alphabet phonétique international">[bʲa](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | びゅ <span class="API" title="Alphabet phonétique international">[bʲɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | びょ <span class="API" title="Alphabet phonétique international">[bʲo](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| P | ぴゃ <span class="API" title="Alphabet phonétique international">[pʲa](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | ぴゅ <span class="API" title="Alphabet phonétique international">[pʲɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | ぴょ <span class="API" title="Alphabet phonétique international">[pʲo](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+
+</div>
+
+<br />
 Notez que quand elles sont associées leur taille calligraphique diminue, comparez la différence:  やゃ - ゆゅ - よょ  
 <br>
 <h1>Les Katakana</h1>
@@ -256,199 +114,41 @@ Ou le deuxième syllabaire à se bâfrer. Phonétiquement parlant les katakana 
 </div>
 <br>
 Oui, à première vue ça peut paraître saugrenu d'avoir deux écritures phonétiques différentes comportant les mêmes sons. Les katakana sont utilisés dans le système d'écriture japonais pour transcrire les mots étrangers, les noms propres étrangers, les noms scientifiques des plantes et animaux, et les onomatopées japonaises. Ils peuvent également servir à mettre en valeur dans un texte des mots qui s'écrivent normalement en kanjis ou en hiraganas.<br /><br />
-<table border="0" cellspacing="0" cellpadding="1">
-<tbody>
-<tr>
-<th colspan="12"><a title="Katakana" href="https://fr.wikipedia.org/wiki/Katakana">Katakana</a></th>
-</tr>
-<tr align="center">
-<td width="8%"></td>
-<td width="8%"></td>
-<td width="8%">K</td>
-<td width="8%">S</td>
-<td width="8%">T</td>
-<td width="8%">N</td>
-<td width="8%">H</td>
-<td width="8%">M</td>
-<td width="8%">Y</td>
-<td width="8%">R</td>
-<td width="8%">W</td>
-<td width="8%"></td>
-</tr>
-<tr align="center">
-<td>A</td>
-<td><a title="あ" href="https://fr.wikipedia.org/wiki/%E3%81%82">ア</a></td>
-<td><a title="か" href="https://fr.wikipedia.org/wiki/%E3%81%8B">カ</a></td>
-<td><a title="さ" href="https://fr.wikipedia.org/wiki/%E3%81%95">サ</a></td>
-<td><a title="た" href="https://fr.wikipedia.org/wiki/%E3%81%9F">タ</a></td>
-<td><a title="な" href="https://fr.wikipedia.org/wiki/%E3%81%AA">ナ</a></td>
-<td><a title="は" href="https://fr.wikipedia.org/wiki/%E3%81%AF">ハ</a></td>
-<td><a title="ま" href="https://fr.wikipedia.org/wiki/%E3%81%BE">マ</a></td>
-<td><a title="や" href="https://fr.wikipedia.org/wiki/%E3%82%84">ヤ</a></td>
-<td><a title="ら" href="https://fr.wikipedia.org/wiki/%E3%82%89">ラ</a></td>
-<td><a title="わ" href="https://fr.wikipedia.org/wiki/%E3%82%8F">ワ</a></td>
-<td></td>
-</tr>
-<tr align="center">
-<td>I</td>
-<td><a title="い" href="https://fr.wikipedia.org/wiki/%E3%81%84">イ</a></td>
-<td><a title="き" href="https://fr.wikipedia.org/wiki/%E3%81%8D">キ</a></td>
-<td><a title="し" href="https://fr.wikipedia.org/wiki/%E3%81%97">シ</a></td>
-<td><a title="ち" href="https://fr.wikipedia.org/wiki/%E3%81%A1">チ</a></td>
-<td><a title="に" href="https://fr.wikipedia.org/wiki/%E3%81%AB">ニ</a></td>
-<td><a title="ひ" href="https://fr.wikipedia.org/wiki/%E3%81%B2">ヒ</a></td>
-<td><a title="み" href="https://fr.wikipedia.org/wiki/%E3%81%BF">ミ</a></td>
-<td></td>
-<td><a title="り" href="https://fr.wikipedia.org/wiki/%E3%82%8A">リ</a></td>
-<td>(<a title="ゐ" href="https://fr.wikipedia.org/wiki/%E3%82%90">ヰ</a>)</td>
-<td> <a title="ん" href="https://fr.wikipedia.org/wiki/%E3%82%93">ン</a></td>
-</tr>
-<tr align="center">
-<td>U</td>
-<td><a title="う" href="https://fr.wikipedia.org/wiki/%E3%81%86">ウ</a></td>
-<td><a title="く" href="https://fr.wikipedia.org/wiki/%E3%81%8F">ク</a></td>
-<td><a title="す" href="https://fr.wikipedia.org/wiki/%E3%81%99">ス</a></td>
-<td><a title="つ" href="https://fr.wikipedia.org/wiki/%E3%81%A4">ツ</a></td>
-<td><a title="ぬ" href="https://fr.wikipedia.org/wiki/%E3%81%AC">ヌ</a></td>
-<td><a title="ふ" href="https://fr.wikipedia.org/wiki/%E3%81%B5">フ</a></td>
-<td><a title="む" href="https://fr.wikipedia.org/wiki/%E3%82%80">ム</a></td>
-<td><a title="ゆ" href="https://fr.wikipedia.org/wiki/%E3%82%86">ユ</a></td>
-<td><a title="る" href="https://fr.wikipedia.org/wiki/%E3%82%8B">ル</a></td>
-<td></td>
-<td></td>
-</tr>
-<tr align="center">
-<td>E</td>
-<td><a title="え" href="https://fr.wikipedia.org/wiki/%E3%81%88">エ</a></td>
-<td><a title="け" href="https://fr.wikipedia.org/wiki/%E3%81%91">ケ</a></td>
-<td><a title="せ" href="https://fr.wikipedia.org/wiki/%E3%81%9B">セ</a></td>
-<td><a title="て" href="https://fr.wikipedia.org/wiki/%E3%81%A6">テ</a></td>
-<td><a title="ね" href="https://fr.wikipedia.org/wiki/%E3%81%AD">ネ</a></td>
-<td><a title="へ" href="https://fr.wikipedia.org/wiki/%E3%81%B8">ヘ</a></td>
-<td><a title="め" href="https://fr.wikipedia.org/wiki/%E3%82%81">メ</a></td>
-<td></td>
-<td><a title="れ" href="https://fr.wikipedia.org/wiki/%E3%82%8C">レ</a></td>
-<td>(<a title="ゑ" href="https://fr.wikipedia.org/wiki/%E3%82%91">ヱ</a>)</td>
-<td></td>
-</tr>
-<tr align="center">
-<td>O</td>
-<td><a title="お" href="https://fr.wikipedia.org/wiki/%E3%81%8A">オ</a></td>
-<td><a title="こ" href="https://fr.wikipedia.org/wiki/%E3%81%93">コ</a></td>
-<td><a title="そ" href="https://fr.wikipedia.org/wiki/%E3%81%9D">ソ</a></td>
-<td><a title="と" href="https://fr.wikipedia.org/wiki/%E3%81%A8">ト</a></td>
-<td><a title="の" href="https://fr.wikipedia.org/wiki/%E3%81%AE">ノ</a></td>
-<td><a title="ほ" href="https://fr.wikipedia.org/wiki/%E3%81%BB">ホ</a></td>
-<td><a title="も" href="https://fr.wikipedia.org/wiki/%E3%82%82">モ</a></td>
-<td><a title="よ" href="https://fr.wikipedia.org/wiki/%E3%82%88">ヨ</a></td>
-<td><a title="ろ" href="https://fr.wikipedia.org/wiki/%E3%82%8D">ロ</a></td>
-<td><a title="を" href="https://fr.wikipedia.org/wiki/%E3%82%92">ヲ</a></td>
-</tr>
-</tbody>
-</table><br />
-Vu qu'on aime bien les exceptions, autant pas se priver et parler directement des spécificités de ce syllabaire. Le tableau plus bas vous présente une série de sons ayant pour but de retranscrire au mieux certains mots étrangers. Avec 5 voyelles dans son panel on fait comme on peut.<br /><br />
-<div class="tablo">
-<table style="height: 329px;" border="0" width="449" cellspacing="0" cellpadding="1">
-<tbody>
-<tr>
-<th colspan="7"></th>
-</tr>
-<tr align="center">
-<td width="8%"></td>
-<td width="8%"> ア <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">a</a></span></td>
-<td width="8%">イ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">i</a></span></td>
-<td width="8%">ウ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɯ</a></span></td>
-<td width="8%">エ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">e</a></span></td>
-<td width="8%">オ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">o</a></span></td>
-<td width="8%">ュ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">jɯ</a></span></td>
-</tr>
-<tr align="center">
-<td>Y</td>
-<td></td>
-<td></td>
-<td></td>
-<td>イェ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">je</a></span></td>
-<td></td>
-<td></td>
-</tr>
-<tr align="center">
-<td>W</td>
-<td></td>
-<td>ウィ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">w͍i</a></span></td>
-<td></td>
-<td>ウェ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">w͍e</a></span></td>
-<td>ウォ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">w͍o</a></span></td>
-<td></td>
-</tr>
-<tr align="center">
-<td>S</td>
-<td></td>
-<td></td>
-<td></td>
-<td>シェ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɕe</a></span></td>
-<td></td>
-<td> フュ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɸʲɯ</a></span></td>
-</tr>
-<tr align="center">
-<td>TS</td>
-<td> ツァ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">tsa</a></span></td>
-<td> ツィ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">tsi</a> </span></td>
-<td></td>
-<td>ツェ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">tse</a></span></td>
-<td>ツォ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">tso</a></span></td>
-<td></td>
-</tr>
-<tr align="center">
-<td>TC</td>
-<td></td>
-<td></td>
-<td></td>
-<td> チェ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">tɕe</a></span></td>
-<td></td>
-</tr>
-<tr align="center">
-<td>T</td>
-<td></td>
-<td>ティ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ti</a></span></td>
-<td> トゥ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">tɯ</a></span></td>
-<td></td>
-<td></td>
-</tr>
-<tr align="center">
-<td>F</td>
-<td>ファ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɸa</a></span></td>
-<td>フィ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɸi</a></span></td>
-<td></td>
-<td> フェ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɸe</a></span></td>
-<td> フォ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ɸo</a></span></td>
-</tr>
-<tr align="center">
-<td>B</td>
-<td> ヴァ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">ba</a></span></td>
-<td>ヴィ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">bi</a></span></td>
-<td> ヴ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">bɯ</a></span></td>
-<td>ヴェ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">be</a></span></td>
-<td> ヴォ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">bo</a></span></td>
-</tr>
-<tr align="center">
-<td>DJ</td>
-<td></td>
-<td></td>
-<td></td>
-<td>ジェ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">dʑe</a></span></td>
-<td></td>
-</tr>
-<tr align="center">
-<td>D</td>
-<td></td>
-<td>ディ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">di</a></span></td>
-<td>ドゥ <span class="API" title="Alphabet phonétique international"><a title="Alphabet phonétique international" href="https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international">dɯ</a></span></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table><br />
+
+
+<div class="tablo" markdown='1'>
+
+
+| | | K | S | T | N | H | M | Y | R | W |
+| A | [ア](https://fr.wikipedia.org/wiki/%E3%81%82 "あ") | [カ](https://fr.wikipedia.org/wiki/%E3%81%8B "か") | [サ](https://fr.wikipedia.org/wiki/%E3%81%95 "さ") | [タ](https://fr.wikipedia.org/wiki/%E3%81%9F "た") | [ナ](https://fr.wikipedia.org/wiki/%E3%81%AA "な") | [ハ](https://fr.wikipedia.org/wiki/%E3%81%AF "は") | [マ](https://fr.wikipedia.org/wiki/%E3%81%BE "ま") | [ヤ](https://fr.wikipedia.org/wiki/%E3%82%84 "や") | [ラ](https://fr.wikipedia.org/wiki/%E3%82%89 "ら") | [ワ](https://fr.wikipedia.org/wiki/%E3%82%8F "わ") |
+| I | [イ](https://fr.wikipedia.org/wiki/%E3%81%84 "い") | [キ](https://fr.wikipedia.org/wiki/%E3%81%8D "き") | [シ](https://fr.wikipedia.org/wiki/%E3%81%97 "し") | [チ](https://fr.wikipedia.org/wiki/%E3%81%A1 "ち") | [ニ](https://fr.wikipedia.org/wiki/%E3%81%AB "に") | [ヒ](https://fr.wikipedia.org/wiki/%E3%81%B2 "ひ") | [ミ](https://fr.wikipedia.org/wiki/%E3%81%BF "み") | [リ](https://fr.wikipedia.org/wiki/%E3%82%8A "り") | ([ヰ](https://fr.wikipedia.org/wiki/%E3%82%90 "ゐ")) |  [ン](https://fr.wikipedia.org/wiki/%E3%82%93 "ん") |
+| U | [ウ](https://fr.wikipedia.org/wiki/%E3%81%86 "う") | [ク](https://fr.wikipedia.org/wiki/%E3%81%8F "く") | [ス](https://fr.wikipedia.org/wiki/%E3%81%99 "す") | [ツ](https://fr.wikipedia.org/wiki/%E3%81%A4 "つ") | [ヌ](https://fr.wikipedia.org/wiki/%E3%81%AC "ぬ") | [フ](https://fr.wikipedia.org/wiki/%E3%81%B5 "ふ") | [ム](https://fr.wikipedia.org/wiki/%E3%82%80 "む") | [ユ](https://fr.wikipedia.org/wiki/%E3%82%86 "ゆ") | [ル](https://fr.wikipedia.org/wiki/%E3%82%8B "る") |
+| E | [エ](https://fr.wikipedia.org/wiki/%E3%81%88 "え") | [ケ](https://fr.wikipedia.org/wiki/%E3%81%91 "け") | [セ](https://fr.wikipedia.org/wiki/%E3%81%9B "せ") | [テ](https://fr.wikipedia.org/wiki/%E3%81%A6 "て") | [ネ](https://fr.wikipedia.org/wiki/%E3%81%AD "ね") | [ヘ](https://fr.wikipedia.org/wiki/%E3%81%B8 "へ") | [メ](https://fr.wikipedia.org/wiki/%E3%82%81 "め") | [レ](https://fr.wikipedia.org/wiki/%E3%82%8C "れ") | ([ヱ](https://fr.wikipedia.org/wiki/%E3%82%91 "ゑ")) |
+| O | [オ](https://fr.wikipedia.org/wiki/%E3%81%8A "お") | [コ](https://fr.wikipedia.org/wiki/%E3%81%93 "こ") | [ソ](https://fr.wikipedia.org/wiki/%E3%81%9D "そ") | [ト](https://fr.wikipedia.org/wiki/%E3%81%A8 "と") | [ノ](https://fr.wikipedia.org/wiki/%E3%81%AE "の") | [ホ](https://fr.wikipedia.org/wiki/%E3%81%BB "ほ") | [モ](https://fr.wikipedia.org/wiki/%E3%82%82 "も") | [ヨ](https://fr.wikipedia.org/wiki/%E3%82%88 "よ") | [ロ](https://fr.wikipedia.org/wiki/%E3%82%8D "ろ") | [ヲ](https://fr.wikipedia.org/wiki/%E3%82%92 "を") |
+
 </div>
+
+
+<br />
+Vu qu'on aime bien les exceptions, autant pas se priver et parler directement des spécificités de ce syllabaire. Le tableau plus bas vous présente une série de sons ayant pour but de retranscrire au mieux certains mots étrangers. Avec 5 voyelles dans son panel on fait comme on peut.<br /><br />
+
+<div class="tablo" markdown='1'>
+|| ア a | イ i | ウ u | エ e | オ o | ュ yu |
+| Y |||| イェ <span class="API" title="Alphabet phonétique international">[je](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| W || ウィ <span class="API" title="Alphabet phonétique international">[w͍i](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> || ウェ <span class="API" title="Alphabet phonétique international">[w͍e](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | ウォ <span class="API" title="Alphabet phonétique international">[w͍o](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| S |||| シェ <span class="API" title="Alphabet phonétique international">[ɕe](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> ||  フュ <span class="API" title="Alphabet phonétique international">[ɸʲɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| TS | ツァ <span class="API" title="Alphabet phonétique international">[tsa](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |  ツィ <span class="API" title="Alphabet phonétique international">[tsi](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international") </span> || ツェ <span class="API" title="Alphabet phonétique international">[tse](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | ツォ <span class="API" title="Alphabet phonétique international">[tso](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| TC |||| チェ <span class="API" title="Alphabet phonétique international">[tɕe](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| T || ティ <span class="API" title="Alphabet phonétique international">[ti](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |  トゥ <span class="API" title="Alphabet phonétique international">[tɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| F | ファ <span class="API" title="Alphabet phonétique international">[ɸa](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | フィ <span class="API" title="Alphabet phonétique international">[ɸi](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> || フェ <span class="API" title="Alphabet phonétique international">[ɸe](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |  フォ <span class="API" title="Alphabet phonétique international">[ɸo](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| B |  ヴァ <span class="API" title="Alphabet phonétique international">[ba](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | ヴィ <span class="API" title="Alphabet phonétique international">[bi](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |  ヴ <span class="API" title="Alphabet phonétique international">[bɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | ヴェ <span class="API" title="Alphabet phonétique international">[be](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |  ヴォ <span class="API" title="Alphabet phonétique international">[bo](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| DJ |||| ジェ <span class="API" title="Alphabet phonétique international">[dʑe](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+| D || ディ <span class="API" title="Alphabet phonétique international">[di](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> | ドゥ <span class="API" title="Alphabet phonétique international">[dɯ](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")</span> |
+
+</div>
+
+<br />
+
 Etudier les deux syllabaires en même temps complexifie la tache, apprenez-les séparément. Au bout d'un mois vous devriez avoir suffisamment de connaissance pour passer à la suite.  
 <br>
 <h1>Caractères spéciaux</h1>

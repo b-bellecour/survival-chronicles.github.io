@@ -397,7 +397,6 @@ fieldset[disabled] .btn-white.active {
 .has-error .form-control:focus,
 .has-success .form-control:focus,
 .has-warning .form-control:focus,
-.navbar-collapse,
 .navbar-form,
 .navbar-form-custom .form-control:focus,
 .navbar-form-custom .form-control:hover,
@@ -4630,7 +4629,32 @@ dd.project-people {
 }
 
 .tablo {
-  overflow: auto;
+  word-break: keep-all;
+  overflow-x: auto;
+  width: 100%;
+}
+
+td, th {
+border-left: 1px solid #ddd;
+border-right: 1px solid #ddd;
+padding: 0.5rem;
+word-break: keep-all;
+}
+
+tr:first-child td {
+    background: #fff;
+    color: #333;
+    font-weight: bold;
+}
+td:nth-child(1) {
+    color: #333;
+    
+}
+
+
+
+tbody tr:nth-child(2n+2) {
+  background: #eee;
 }
 
 .embed-container {
@@ -7814,4 +7838,18 @@ body.md-skin {
 
 .play:before {
     content: "\25B6";
+}
+
+.hlg {
+  display: inline-block;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  font-size: 13px;
+  line-height: 1.42857143;
+  color: #333;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
