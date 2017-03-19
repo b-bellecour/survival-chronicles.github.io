@@ -2,7 +2,7 @@ url: https://emk4.github.io/survival-chronicles.github.io
 baseurl: http://survival-chronicles.fr/
 # Site settings
 title: Survival chronicles
-email: emkal@survival-chronicles.com
+email: bbellecour@gmail.com
 description: "Chronicles of a french IT engineer trying to make his way in Tokyo"
 
 
@@ -16,9 +16,9 @@ social:
   - title: twitter
     url: https://twitter.com/Emkasec
   - title: envelope
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://survival-chronicles.fr/contact/
   - title: rss
-    url: 'feed.xml'
+    url: http://survival-chronicles.fr/feed.xml
 
 # credit
 people:

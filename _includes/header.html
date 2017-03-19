@@ -146,6 +146,27 @@
          </div>
         
     </header>
+        {% when 'contact' %}
+         <header style="   
+    background: url('{{ site.baseurl }}img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}img/header/{{ page.img }}');
+    background-repeat: repeat-x, no-repeat ;
+    background-position: bottom, center;
+    background-size: auto, cover;">
+
+          <div class="container">
+            <div class="intro-text">
+                {% for post in site.posts limit:1 %}
+                 <div class="intro-heading" style="margin-bottom: 10px; text-shadow: 2px 2px #d44950;">{{ page.title }}</div>
+                 <br>
+                 <div class="intro-lead-in" style="text-shadow: 2px 1px 1px #222;">{{ page.description }}</div>
+                {% endfor %}
+                <br>
+                 <a href="#post" class="page-scroll buttonz">contactez moi !</a>
+            </div>
+            <div id="post"></div>
+         </div>
+        
+    </header>
     {% else %}
      <header style="   
     background: url('{{ site.baseurl }}img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}img/header/{{ page.img }}');
