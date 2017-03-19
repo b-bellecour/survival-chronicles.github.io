@@ -5,6 +5,7 @@ date: 2015-12-8
 img: appart.jpg
 category: formalites
 description: avec les polissons de chintai.net
+permalink: /formalite/appartement/
 tags:
 - Logements
 - Appartements

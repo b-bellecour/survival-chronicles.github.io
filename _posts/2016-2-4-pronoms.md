@@ -5,6 +5,7 @@ date: 2016-02-8
 img: tons.jpg
 category: langue-japonaise
 description: Vous venez d'apprendre vos kana et vous voulez en découdre.
+permalink: /langue-japonaise/pronoms/
 tags :
 - inititation
 - langue-japonaise

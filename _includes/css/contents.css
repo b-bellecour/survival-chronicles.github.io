@@ -3224,7 +3224,7 @@ border-bottom: 1px solid #e7eaec;
 }
 
 .ibox-content:hover {
-  background: -webkit-linear-gradient(-180deg, transparent , rgba(255, 255, 255, 1) 90%); /* For Safari 5.1 to 6.0 */
+  background: -webkit-linear-gradient(-180deg, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 1) 90%); /* For Safari 5.1 to 6.0 */
   background: -moz-linear-gradient(-180deg, transparent, white); /* For Firefox 3.6 to 15 */
   background: linear-gradient(to -180deg, transparent, white); /* Standard syntax */
   padding: 15px 20px 60px 20px;

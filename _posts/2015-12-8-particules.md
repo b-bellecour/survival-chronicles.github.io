@@ -5,6 +5,7 @@ date: 2015-12-8
 img: prtcl.jpg
 category: langue-japonaise
 description: C'est le moment d'aller se prendre un café.
+permalink: /langue-japonaise/particules/
 tags :
 - inititation
 - langue-japonaise

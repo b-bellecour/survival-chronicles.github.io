@@ -5,6 +5,7 @@ date: 2016-02-24
 img: rirekisho.jpg
 category: emploi
 description: Comment écrire son cv sans faire marrer le RH.
+permalink: /emploi/rirekisho/
 tags:
 - emplois
 - CV

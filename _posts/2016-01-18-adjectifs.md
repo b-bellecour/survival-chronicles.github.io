@@ -5,6 +5,7 @@ date: 2016-01-18
 img: adj.jpg
 category: langue-japonaise
 description: Premieres notions de conjuguaison.
+permalink: /langue-japonaise/adjectifs/
 tags:
 - initiation
 - langue-japonaise

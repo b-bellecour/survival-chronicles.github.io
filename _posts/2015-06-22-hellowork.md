@@ -5,6 +5,7 @@ date: 2015-06-22
 img: hellowork.jpg
 category: emploi
 description: Vous n'êtes pas venu au Japon pour faire le touriste, Hellowork vous aide à exercer votre métier
+permalink: /emploi/hellowork/
 tags:
 - emplois
 - hellowork

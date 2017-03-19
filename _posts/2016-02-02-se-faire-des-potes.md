@@ -5,6 +5,7 @@ date: 2016-02-24
 img: pote.jpg
 category: formalites
 description: Se sociabiliser sans passer pour une quiche
+permalink: /formalite/se-faire-des-potes/
 tags:
 - Sciences-sociales
 - Poto
@@ -23,6 +24,11 @@ Bon. J'ai été invité à une fête, un pot de départ, je connaissais une pers
 
 Les japonais sont de nature introvertie, Ils feront difficilement le premier pas. Tant qu'ils ne sont pas complètement torchés du-moins.
 
+<div style="text-align:center" markdown="1">
+
+<iframe src="//giphy.com/embed/b4WlNF7ZT9yI8" width="auto" height="360" align="middle" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/rabbit-power-rangers-b4WlNF7ZT9yI8"></a></p>
+
+</div>
 
 Une des raisons est qu'ils ont du mal avec les langues étrangères. Pour eux, vous ne parlez pas un broc de japonais, ils se disent qu'ils passeront pour des manches en tentant de vous parler en anglais. Vocabulaire limité, prononciation proche des katakana, manque de confiance en soi... Ils se trouveront la majorité du temps une excuse pour ne pas entamer la conversation, même si ils en meurent d'envie.  
 

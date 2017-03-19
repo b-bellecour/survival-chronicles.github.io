@@ -5,6 +5,7 @@ date: 2016-02-24
 img: logement.jpg
 category: formalites
 description: 4 différents moyens de vous loger au japon.
+permalink: /formalite/logements/
 tags:
 - Logements
 - Appartements

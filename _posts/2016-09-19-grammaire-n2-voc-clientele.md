@@ -1,10 +1,11 @@
 ---
-title: Grammaire N2, Annonces dédiées à la clientèle.
+title: Grammaire N2, langage soutenu.
 layout: post
 date: 2014-07-18
 img: gramn2.jpg
 category: langue-japonaise
 description: Les huit points suivants sont principalement utilisés à l'écrit.
+permalink: /langue-japonaise/langage-soutenu/
 tags:
 - Grammaire
 - JLPT2

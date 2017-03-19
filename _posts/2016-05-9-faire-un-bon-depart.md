@@ -5,6 +5,7 @@ date: 2016-05-9
 img: start.jpg
 category: langue-japonaise
 description: Vous partez de zero et vous voulez apprendre le japonais ? Bienvenue.
+permalink: /langue-japonaise/faire-un-bon-depart/
 tags :
 - inititation
 - langue-japonaise
