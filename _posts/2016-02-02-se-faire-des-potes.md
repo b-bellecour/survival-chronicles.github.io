@@ -23,11 +23,6 @@ Bon. J'ai été invité à une fête, un pot de départ, je connaissais une pers
 
 Les japonais sont de nature introvertie, Ils feront difficilement le premier pas. Tant qu'ils ne sont pas complètement torchés du-moins.
 
-<div style="text-align: center;">
-
-<iframe src="https://vine.co/v/hw0OaMElUM6/embed/simple" width="600" height="600" frameborder="0"></iframe>
-
-</div>
 
 Une des raisons est qu'ils ont du mal avec les langues étrangères. Pour eux, vous ne parlez pas un broc de japonais, ils se disent qu'ils passeront pour des manches en tentant de vous parler en anglais. Vocabulaire limité, prononciation proche des katakana, manque de confiance en soi... Ils se trouveront la majorité du temps une excuse pour ne pas entamer la conversation, même si ils en meurent d'envie.  
 
