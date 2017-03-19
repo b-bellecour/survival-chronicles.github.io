@@ -5,7 +5,7 @@ date: 2016-02-24
 img: pote.jpg
 category: formalites
 description: Se sociabiliser sans passer pour une quiche
-permalink: /formalite/se-faire-des-potes/
+permalink: /formalites/se-faire-des-potes/
 tags:
 - Sciences-sociales
 - Poto
