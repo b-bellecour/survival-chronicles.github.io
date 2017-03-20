@@ -7768,7 +7768,8 @@ body.md-skin {
 }
 
 .buttonz:hover {
-    background-color: #fff;        
+    background-color: #fff;
+    color: #da314b;        
     background-image: linear-gradient(top, #fafafa, #ddd);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#fafafa', EndColorStr='#dddddd');        
 }
@@ -7853,3 +7854,22 @@ body.md-skin {
   border: 1px solid #ccc;
   border-radius: 4px;
 }
+
+#formview textarea {
+    height: 10.3em;
+}
+form input, form textarea {
+    margin-bottom: 0.5em;
+}
+input, textarea {
+    font-size: 0.8em;
+    font-family: 'proxima-nova-soft', sans-serif;
+    border: 1px solid #ddd;
+    background: #fff;
+    padding: 0.9em;
+    transition: all 0.3s ease-in-out;
+    width: 100%;
+}
+textarea {
+    overflow: auto;
+    vertical-align: top;
