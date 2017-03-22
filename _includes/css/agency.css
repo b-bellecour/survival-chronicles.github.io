@@ -717,7 +717,7 @@ footer {
   width: 100%;
   bottom: 0;
   left: 0;
-  background: transparent url('{{ site.baseurl }}img/style/tri-blanc.png') 50% 0 repeat-x;
+  background: transparent url('{{ site.baseurl }}/img/style/tri-blanc.png') 50% 0 repeat-x;
 }
 
 footer span.copyright {
