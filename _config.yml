@@ -31,6 +31,10 @@ people:
  # name: survival-chronicles
  # public_key: 16I9Q3peU6sDEEzM1v1DtRNOB6awZGnZkqIktUxtrr68Y1kxY4pHmLFxSrWjHCWX
 
+#gems:
+gems:
+  - jekyll-sitemap
+
 # Build settings
 markdown: kramdown
 permalink: pretty
