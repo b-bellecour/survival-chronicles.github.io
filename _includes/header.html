@@ -27,7 +27,7 @@
                         <a class="page-scroll" href="#news">news</a>
                     </li>
                 {% else %}
-                <a class="navbar-brand page-scroll" href="{{site.baseurl}}">{{site.title}}</a>
+                <a class="navbar-brand page-scroll" href="{{site.baseurl}}/">{{site.title}}</a>
             </div>
 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -36,21 +36,21 @@
                         <a href="site.baseurl"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="{{site.baseurl}}#services">au menu</a>
+                        <a class="page-scroll" href="{{site.baseurl}}/#services">au menu</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="{{site.baseurl}}#news">news</a>
+                        <a class="page-scroll" href="{{site.baseurl}}/#news">news</a>
                     </li>
                 {% endif %}
 
                     <li>
-                        <a class="page-scroll" href="{{ site.baseurl }}emploi/">emploi</a>
+                        <a class="page-scroll" href="{{ site.baseurl }}/emploi/">emploi</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="{{ site.baseurl }}langue-japonaise/">langue japonaise</a>
+                        <a class="page-scroll" href="{{ site.baseurl }}/langue-japonaise/">langue japonaise</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="{{ site.baseurl }}formalites/">formalités</a>
+                        <a class="page-scroll" href="{{ site.baseurl }}f/ormalites/">formalités</a>
                     </li>
                 </ul>
             </div>
@@ -84,7 +84,7 @@
     </header>
     {% when 'langue-japonaise' %}
          <header style="   
-    background: url('{{ site.baseurl }}img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}img/header/{{ page.img }}');
+    background: url('{{ site.baseurl }}/img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}/img/header/{{ page.img }}');
     background-repeat: repeat-x, no-repeat ;
     background-position: bottom, center;
     background-size: auto, cover;">
@@ -106,7 +106,7 @@
      </header>
     {% when 'emploi' %}
          <header style="   
-    background: url('{{ site.baseurl }}img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}img/header/{{ page.img }}');
+    background: url('{{ site.baseurl }}img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}/img/header/{{ page.img }}');
     background-repeat: repeat-x, no-repeat ;
     background-position: bottom, center;
     background-size: auto, cover;">
@@ -127,7 +127,7 @@
     </header>
         {% when 'formalites' %}
          <header style="   
-    background: url('{{ site.baseurl }}img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}img/header/{{ page.img }}');
+    background: url('{{ site.baseurl }}/img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}/img/header/{{ page.img }}');
     background-repeat: repeat-x, no-repeat ;
     background-position: bottom, center;
     background-size: auto, cover;">
@@ -148,7 +148,7 @@
     </header>
         {% when 'contact' %}
          <header style="   
-    background: url('{{ site.baseurl }}img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}img/header/{{ page.img }}');
+    background: url('{{ site.baseurl }}/img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}/img/header/{{ page.img }}');
     background-repeat: repeat-x, no-repeat ;
     background-position: bottom, center;
     background-size: auto, cover;">
@@ -169,7 +169,7 @@
     </header>
     {% else %}
      <header style="   
-    background: url('{{ site.baseurl }}img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}img/header/{{ page.img }}');
+    background: url('{{ site.baseurl }}/img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}/img/header/{{ page.img }}');
     background-repeat: repeat-x, no-repeat ;
     background-position: bottom, center;
     background-size: auto, cover;">
@@ -192,7 +192,7 @@
 
 <!--
         {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}/">{{ page.title }}</a>{% endif %}
         {% endfor %}
  -->
 
