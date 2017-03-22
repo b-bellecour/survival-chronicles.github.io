@@ -706,7 +706,7 @@ footer {
 }
 .footerino {
 
-    background: url('{{ site.baseurl }}img/style/tri-blanc.png'), 50% 0 url('{{ site.baseurl }}/img/footer.jpg') ;
+    background: url('{{ site.baseurl }}/img/style/tri-blanc.png'), 50% 0 url('{{ site.baseurl }}/img/footer.jpg') ;
     background-size: auto, 1920px;
     background-repeat: repeat-x, no-repeat ;
     background-position: center, absolute;
