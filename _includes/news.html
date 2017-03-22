@@ -16,7 +16,7 @@
             <!-- latest 10 blog -->
             {% for post in site.posts limit:10 %}
 
-            <div class="vote-item" style="background-image: url('{{ site.baseurl }}img/header/{{ post.img }}'); background-size: 100%; ">
+            <div class="vote-item" style="background-image: url('{{ site.baseurl }}/img/header/{{ post.img }}'); background-size: 100%; ">
             <div class="vote-item-content ">
                 <div class="row">
                     <div class="col-md-10 animated bounceInRight wow">
@@ -28,7 +28,7 @@
                         <div class="vote-info">
                      
                         
-                            <i class="fa fa-comments-o"> </i> <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
+                            <i class="fa fa-comments-o"> </i> <a href="{{ post.url | prepend: site.baseurl }}/#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
                         
                             <i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
                             <i class="fa fa-user"></i> <a>{{ site.author.name }}</a>
