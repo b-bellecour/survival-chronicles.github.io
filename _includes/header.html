@@ -1,6 +1,4 @@
 
-
-
 <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
@@ -30,30 +28,30 @@
                         <a class="page-scroll" href="#news">news</a>
                     </li>
                 {% else %}
-                <a class="navbar-brand page-scroll" href="{{site.baseurl}}/">{{site.title}}</a>
+                <a class="navbar-brand page-scroll" href="{{site.url}}/">{{site.title}}</a>
             </div>
 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
-                        <a href="site.baseurl"></a>
+                        <a href="site.url"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="{{site.baseurl}}/#services">au menu</a>
+                        <a class="page-scroll" href="{{site.url}}/#services">au menu</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="{{site.baseurl}}/#news">news</a>
+                        <a class="page-scroll" href="{{site.url}}/#news">news</a>
                     </li>
                 {% endif %}
 
                     <li>
-                        <a class="page-scroll" href="{{ site.baseurl }}/emploi/">emploi</a>
+                        <a class="page-scroll" href="{{ site.url }}/emploi/">emploi</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="{{ site.baseurl }}/langue-japonaise/">langue japonaise</a>
+                        <a class="page-scroll" href="{{ site.url }}/langue-japonaise/">langue japonaise</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="{{ site.baseurl }}/formalites/">formalités</a>
+                        <a class="page-scroll" href="{{ site.url }}/formalites/">formalités</a>
                     </li>
                 </ul>
             </div>
@@ -87,7 +85,7 @@
     </header>
     {% when 'langue-japonaise' %}
          <header style="   
-    background: url('{{ site.baseurl }}/img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}/img/header/{{ page.img }}');
+    background: url('{{ site.url }}/img/style/tri-blanc-up.png'), 50% 0 url('{{ site.url }}/img/header/{{ page.img }}');
     background-repeat: repeat-x, no-repeat ;
     background-position: bottom, center;
     background-size: auto, cover;">
@@ -109,7 +107,7 @@
      </header>
     {% when 'emploi' %}
          <header style="   
-    background: url('{{ site.baseurl }}/img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}/img/header/{{ page.img }}');
+    background: url('{{ site.url }}/img/style/tri-blanc-up.png'), 50% 0 url('{{ site.url }}/img/header/{{ page.img }}');
     background-repeat: repeat-x, no-repeat ;
     background-position: bottom, center;
     background-size: auto, cover;">
@@ -130,7 +128,7 @@
     </header>
         {% when 'formalites' %}
          <header style="   
-    background: url('{{ site.baseurl }}/img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}/img/header/{{ page.img }}');
+    background: url('{{ site.url }}/img/style/tri-blanc-up.png'), 50% 0 url('{{ site.url }}/img/header/{{ page.img }}');
     background-repeat: repeat-x, no-repeat ;
     background-position: bottom, center;
     background-size: auto, cover;">
@@ -151,7 +149,7 @@
     </header>
         {% when 'contact' %}
          <header style="   
-    background: url('{{ site.baseurl }}/img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}/img/header/{{ page.img }}');
+    background: url('{{ site.url }}/img/style/tri-blanc-up.png'), 50% 0 url('{{ site.url }}/img/header/{{ page.img }}');
     background-repeat: repeat-x, no-repeat ;
     background-position: bottom, center;
     background-size: auto, cover;">
@@ -172,7 +170,7 @@
     </header>
     {% else %}
      <header style="   
-    background: url('{{ site.baseurl }}/img/style/tri-blanc-up.png'), 50% 0 url('{{ site.baseurl }}/img/header/{{ page.img }}');
+    background: url('{{ site.url }}/img/style/tri-blanc-up.png'), 50% 0 url('{{ site.url }}/img/header/{{ page.img }}');
     background-repeat: repeat-x, no-repeat ;
     background-position: bottom, center;
     background-size: auto, cover;">
@@ -195,7 +193,7 @@
 
 <!--
         {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}/">{{ page.title }}</a>{% endif %}
+          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.url }}/">{{ page.title }}</a>{% endif %}
         {% endfor %}
  -->
 
