@@ -17,6 +17,7 @@ img: formalite.jpg
 {% include footer.html %}
 
 <!-- facebook Open Graph Metadatas -->
+{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 {% if page.title %}
   <meta content="{{ page.title }}" property="og:title">
 {% else %}
