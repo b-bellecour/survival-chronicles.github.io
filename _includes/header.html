@@ -1,5 +1,6 @@
 
 <!-- facebook Open Graph Metadatas -->
+<head>
 <meta property="og:image" content="{{ site.baseurl }}/img/header/{{ page.img }}">
 <meta property="og:image:url" content="{{ site.baseurl }}/img/header/{{ page.img }}">
 <meta property="og:image:secure_url" content="{{ site.baseurl }}/img/header/{{ page.img }}">
@@ -11,7 +12,7 @@
 {% else %}
   <meta content="{{ site.description }}" property="og:description">
 {% endif %}
-
+</head>
 <!-- Metadata -->
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 
