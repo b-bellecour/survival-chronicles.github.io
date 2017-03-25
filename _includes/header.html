@@ -6,6 +6,12 @@
 <meta property="og:image:type" content="image/jpeg">
 <meta content="{{ site.title }}" property="og:site_name">
 
+{% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">
+{% else %}
+  <meta content="{{ site.description }}" property="og:description">
+{% endif %}
+
 <!-- Metadata -->
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 
