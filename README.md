@@ -8,7 +8,7 @@ Developed by Bellecour Baptiste
 
 Jekyll.
 
-## Live demo
+## Live demo (FRENCH)
 
 https://emk4.github.io/survival-chronicles.github.io/
 
