@@ -2,34 +2,34 @@ url: http://survival-chronicles.fr
 baseurl: 
 # Site settings
 title: Survival chronicles
-email: bbellecour@gmail.com
-description: "Chronicles of a french IT engineer trying to make his way in Tokyo"
+email: Your mail
+description: "Your site meta description"
 
 
 #author
 author:
-  name: 'Emka'
+  name: 'Your name'
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/Emkasec
+    url: https://twitter.com/yourID
   - title: envelope
-    url: http://survival-chronicles.fr/contact/
+    url: https://emk4.github.io/survival-chronicles.github.io/contact/
   - title: rss
-    url: http://survival-chronicles.fr/feed.xml
+    url: https://emk4.github.io/survival-chronicles.github.io/feed.xml
 
 # credit
 people:
-- name: Emka
+- name: Credit name
   pic: 1
 
 # social
 
 #disqus:
  # name: survival-chronicles
- # public_key: 16I9Q3peU6sDEEzM1v1DtRNOB6awZGnZkqIktUxtrr68Y1kxY4pHmLFxSrWjHCWX
+ # public_key: Your pub key
 
 #gems:
 gems:
